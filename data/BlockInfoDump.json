@@ -1,6 +1,6 @@
 {
   "game_version": "1.6.7.1",
-  "date": "2026/09/18 20:17:01",
+  "date": "2026/09/18 20:36:51",
   "source": "unpack prefabs + localisation (not in-game Block Info Dumper)",
   "languages": [
     "zh-Hant",
@@ -2211,7 +2211,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 90.0
+        "rotate_speed": 90.0,
+        "barrel_count": 2
       },
       "ModuleWheels": {
         "TorqueParams": {
@@ -3296,7 +3297,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 3.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 8
       }
     },
     {
@@ -7431,7 +7433,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.16,
-        "rotate_speed": 100.0
+        "rotate_speed": 100.0,
+        "barrel_count": 4
       }
     },
     {
@@ -8525,7 +8528,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 90.0
+        "rotate_speed": 90.0,
+        "barrel_count": 2
       },
       "ModuleWheels": {
         "TorqueParams": {
@@ -9249,7 +9253,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.33,
-        "rotate_speed": 30.0
+        "rotate_speed": 30.0,
+        "barrel_count": 2,
+        "burst_shot_count": 2,
+        "burst_cooldown": 0.33
       }
     },
     {
@@ -9947,7 +9954,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 100.0
+        "rotate_speed": 100.0,
+        "barrel_count": 2,
+        "burst_shot_count": 3,
+        "burst_cooldown": 5.0
       }
     },
     {
@@ -26526,7 +26536,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 60.0
+        "rotate_speed": 60.0,
+        "barrel_count": 2,
+        "burst_shot_count": 2,
+        "burst_cooldown": 1.0
       }
     },
     {
@@ -27168,7 +27181,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.2,
-        "rotate_speed": 250.0
+        "rotate_speed": 250.0,
+        "barrel_count": 3
       }
     },
     {
@@ -28647,7 +28661,9 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.05,
-        "rotate_speed": 250.0
+        "rotate_speed": 250.0,
+        "burst_shot_count": 5,
+        "burst_cooldown": 1.75
       }
     },
     {
@@ -45919,7 +45935,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.5,
-        "rotate_speed": 20.0
+        "rotate_speed": 20.0,
+        "barrel_count": 4,
+        "burst_shot_count": 4,
+        "burst_cooldown": 2.0
       }
     },
     {
@@ -48374,7 +48393,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 300.0
+        "rotate_speed": 300.0,
+        "barrel_count": 4,
+        "burst_shot_count": 4,
+        "burst_cooldown": 1.0
       }
     },
     {
@@ -49716,7 +49738,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.25,
-        "rotate_speed": 100.0
+        "rotate_speed": 100.0,
+        "barrel_count": 2
       }
     },
     {
@@ -49986,7 +50009,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 4.0,
-        "rotate_speed": 50.0
+        "rotate_speed": 50.0,
+        "barrel_count": 4
       }
     },
     {
@@ -50381,7 +50405,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 25.0
+        "rotate_speed": 25.0,
+        "barrel_count": 2
       }
     },
     {
@@ -51637,7 +51662,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 3.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 6
       }
     },
     {
@@ -52506,7 +52532,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 3
       },
       "BeamWeapon": {
         "damage_per_second": 900,
@@ -53860,7 +53887,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.05,
-        "rotate_speed": 100.0
+        "rotate_speed": 100.0,
+        "barrel_count": 2
       }
     },
     {
@@ -56724,7 +56752,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 90.0
+        "rotate_speed": 90.0,
+        "barrel_count": 2
       },
       "ModuleBooster": {
         "uses_drive_controls": true,
@@ -78470,7 +78499,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.25,
-        "rotate_speed": 50.0
+        "rotate_speed": 50.0,
+        "barrel_count": 3
       }
     },
     {
@@ -78626,7 +78656,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 12.0
+        "rotate_speed": 12.0,
+        "barrel_count": 3
       }
     },
     {
@@ -80183,7 +80214,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.75,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 3,
+        "burst_shot_count": 3,
+        "burst_cooldown": 1.5
       }
     },
     {
@@ -80946,6 +80980,7 @@
         "damage_per_arc": 5000.0,
         "target_radius": 50.0,
         "charge_duration": 5.0,
+        "arc_cooldown": 1.0,
         "damage_type": "Electric",
         "damage_type_int": 8,
         "damage_type_name": {
@@ -81304,6 +81339,7 @@
         "damage_per_arc": 5000.0,
         "target_radius": 1000.0,
         "charge_duration": 5.0,
+        "arc_cooldown": 1.0,
         "damage_type": "Electric",
         "damage_type_int": 8,
         "damage_type_name": {
@@ -82678,6 +82714,7 @@
         "damage_per_arc": 5000.0,
         "target_radius": 1000.0,
         "charge_duration": 4.0,
+        "arc_cooldown": 1.0,
         "damage_type": "Electric",
         "damage_type_int": 8,
         "damage_type_name": {
@@ -82778,7 +82815,9 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 20.0
+        "rotate_speed": 20.0,
+        "burst_shot_count": 5,
+        "burst_cooldown": 2.5
       }
     },
     {
@@ -84343,7 +84382,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 6.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 3,
+        "burst_shot_count": 3,
+        "burst_cooldown": 1.5
       }
     },
     {
@@ -87562,7 +87604,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 90.0
+        "rotate_speed": 90.0,
+        "barrel_count": 2
       }
     },
     {
@@ -87912,7 +87955,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 90.0
+        "rotate_speed": 90.0,
+        "barrel_count": 2
       }
     },
     {
@@ -88303,7 +88347,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 9.0,
-        "rotate_speed": 12.0
+        "rotate_speed": 12.0,
+        "barrel_count": 3
       }
     },
     {
@@ -89005,7 +89050,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 20.0
+        "rotate_speed": 20.0,
+        "barrel_count": 9,
+        "burst_shot_count": 9,
+        "burst_cooldown": 5.0
       }
     },
     {
@@ -90631,7 +90679,10 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.5,
-        "rotate_speed": 100.0
+        "rotate_speed": 100.0,
+        "barrel_count": 6,
+        "burst_shot_count": 6,
+        "burst_cooldown": 5.0
       }
     },
     {
@@ -90950,7 +91001,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.25,
-        "rotate_speed": 175.0
+        "rotate_speed": 175.0,
+        "barrel_count": 2
       }
     },
     {
@@ -91946,7 +91998,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 3.25,
-        "rotate_speed": 35.0
+        "rotate_speed": 35.0,
+        "barrel_count": 4
       }
     },
     {
@@ -105498,7 +105551,9 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 3.0,
-        "rotate_speed": 50.0
+        "rotate_speed": 50.0,
+        "burst_shot_count": 2,
+        "burst_cooldown": 0.33
       }
     },
     {
@@ -108491,7 +108546,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 3.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "barrel_count": 2
       }
     },
     {
@@ -111267,7 +111323,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 0.2,
-        "rotate_speed": 150.0
+        "rotate_speed": 150.0,
+        "barrel_count": 2
       }
     },
     {
