@@ -1,6 +1,6 @@
 {
   "game_version": "1.6.7.1",
-  "date": "2026/09/18 11:35:56",
+  "date": "2026/09/18 20:17:01",
   "source": "unpack prefabs + localisation (not in-game Block Info Dumper)",
   "languages": [
     "zh-Hant",
@@ -1391,6 +1391,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 126,
       "rarity": "Common",
       "rarity_name": {
@@ -1484,6 +1485,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 351,
       "rarity": "Common",
       "rarity_name": {
@@ -1577,6 +1579,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 126,
       "rarity": "Common",
       "rarity_name": {
@@ -1670,6 +1673,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 216,
       "rarity": "Common",
       "rarity_name": {
@@ -1763,6 +1767,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 177,
       "rarity": "Common",
       "rarity_name": {
@@ -1868,6 +1873,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2634,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -1984,6 +1990,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1998,
       "rarity": "Common",
       "rarity_name": {
@@ -2115,6 +2122,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1029,
       "rarity": "Rare",
       "rarity_name": {
@@ -2268,6 +2276,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 216,
       "rarity": "Common",
       "rarity_name": {
@@ -2360,6 +2369,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -2426,6 +2436,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 81,
       "rarity": "Common",
       "rarity_name": {
@@ -2519,6 +2530,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 378,
       "rarity": "Common",
       "rarity_name": {
@@ -2615,6 +2627,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2694,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -2724,6 +2737,7 @@
         "ko": "비행"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 2709,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -2837,6 +2851,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 207,
       "rarity": "Common",
       "rarity_name": {
@@ -2950,6 +2965,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 606,
       "rarity": "Common",
       "rarity_name": {
@@ -3075,6 +3091,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 282,
       "rarity": "Common",
       "rarity_name": {
@@ -3188,6 +3205,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2928,
       "rarity": "Common",
       "rarity_name": {
@@ -3277,7 +3295,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 4.0,
+        "shot_cooldown": 3.0,
         "rotate_speed": 0.0
       }
     },
@@ -3319,6 +3337,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 228,
       "rarity": "Common",
       "rarity_name": {
@@ -3412,6 +3431,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -3517,6 +3537,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 297,
       "rarity": "Common",
       "rarity_name": {
@@ -3610,6 +3631,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 198,
       "rarity": "Common",
       "rarity_name": {
@@ -3703,6 +3725,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 246,
       "rarity": "Common",
       "rarity_name": {
@@ -3796,6 +3819,7 @@
         "ko": "비행"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 4434,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -3924,6 +3948,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 300,
       "rarity": "Common",
       "rarity_name": {
@@ -4029,6 +4054,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 435,
       "rarity": "Common",
       "rarity_name": {
@@ -4134,6 +4160,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 231,
       "rarity": "Common",
       "rarity_name": {
@@ -4227,6 +4254,7 @@
         "ko": "보조"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 2091,
       "rarity": "Common",
       "rarity_name": {
@@ -4344,6 +4372,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 234,
       "rarity": "Common",
       "rarity_name": {
@@ -4461,6 +4490,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 144,
       "rarity": "Common",
       "rarity_name": {
@@ -4578,6 +4608,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 369,
       "rarity": "Common",
       "rarity_name": {
@@ -4671,6 +4702,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 708,
       "rarity": "Common",
       "rarity_name": {
@@ -4764,6 +4796,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1332,
       "rarity": "Common",
       "rarity_name": {
@@ -4869,6 +4902,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2403,
       "rarity": "Common",
       "rarity_name": {
@@ -4986,6 +5020,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 918,
       "rarity": "Common",
       "rarity_name": {
@@ -5091,6 +5126,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1014,
       "rarity": "Rare",
       "rarity_name": {
@@ -5227,6 +5263,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2505,
       "rarity": "Rare",
       "rarity_name": {
@@ -5348,6 +5385,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4785,
       "rarity": "Rare",
       "rarity_name": {
@@ -5469,6 +5507,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1485,
       "rarity": "Common",
       "rarity_name": {
@@ -5574,6 +5613,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1803,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -5682,6 +5722,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1212,
       "rarity": "Common",
       "rarity_name": {
@@ -5790,6 +5831,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9804,
       "rarity": "Common",
       "rarity_name": {
@@ -5919,6 +5961,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5436,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -6036,6 +6079,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 6186,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -6156,6 +6200,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 909,
       "rarity": "Common",
       "rarity_name": {
@@ -6285,6 +6330,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1350,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -6414,6 +6460,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1188,
       "rarity": "Common",
       "rarity_name": {
@@ -6543,6 +6590,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8193,
       "rarity": "Rare",
       "rarity_name": {
@@ -6670,6 +6718,7 @@
         "ko": "비행"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 9867,
       "rarity": "Rare",
       "rarity_name": {
@@ -6779,6 +6828,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4326,
       "rarity": "Rare",
       "rarity_name": {
@@ -6884,6 +6934,7 @@
         "ko": "비행"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 5301,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -7009,6 +7060,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 162,
       "rarity": "Common",
       "rarity_name": {
@@ -7138,6 +7190,7 @@
         "ko": "무기"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 13098,
       "rarity": "Rare",
       "rarity_name": {
@@ -7239,7 +7292,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 2.0,
         "rotate_speed": 20.0
       }
     },
@@ -7281,6 +7334,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2178,
       "rarity": "Common",
       "rarity_name": {
@@ -7418,6 +7472,7 @@
         "ko": "비행"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 11118,
       "rarity": "Rare",
       "rarity_name": {
@@ -7534,6 +7589,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1884,
       "rarity": "Common",
       "rarity_name": {
@@ -7639,6 +7695,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 459,
       "rarity": "Common",
       "rarity_name": {
@@ -7744,6 +7801,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 351,
       "rarity": "Common",
       "rarity_name": {
@@ -7849,6 +7907,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 486,
       "rarity": "Common",
       "rarity_name": {
@@ -7954,6 +8013,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 405,
       "rarity": "Common",
       "rarity_name": {
@@ -8059,6 +8119,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 198,
       "rarity": "Common",
       "rarity_name": {
@@ -8164,6 +8225,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 306,
       "rarity": "Common",
       "rarity_name": {
@@ -8269,6 +8331,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4281,
       "rarity": "Rare",
       "rarity_name": {
@@ -8373,6 +8436,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1191,
       "rarity": "Rare",
       "rarity_name": {
@@ -8526,6 +8590,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2376,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -8660,6 +8725,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 216,
       "rarity": "Common",
       "rarity_name": {
@@ -8765,6 +8831,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9219,
       "rarity": "Rare",
       "rarity_name": {
@@ -8885,6 +8952,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -8952,6 +9020,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 522,
       "rarity": "Common",
       "rarity_name": {
@@ -9077,6 +9146,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 19536,
       "rarity": "Common",
       "rarity_name": {
@@ -9178,7 +9248,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 0.33,
         "rotate_speed": 30.0
       }
     },
@@ -9220,6 +9290,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 906,
       "rarity": "Common",
       "rarity_name": {
@@ -9349,6 +9420,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2520,
       "rarity": "Common",
       "rarity_name": {
@@ -9478,6 +9550,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 585,
       "rarity": "Common",
       "rarity_name": {
@@ -9583,6 +9656,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 225,
       "rarity": "Common",
       "rarity_name": {
@@ -9688,6 +9762,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 381,
       "rarity": "Common",
       "rarity_name": {
@@ -9781,6 +9856,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2799,
       "rarity": "Common",
       "rarity_name": {
@@ -9870,7 +9946,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.5,
         "rotate_speed": 100.0
       }
     },
@@ -9912,6 +9988,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 258,
       "rarity": "Common",
       "rarity_name": {
@@ -10017,6 +10094,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 870,
       "rarity": "Common",
       "rarity_name": {
@@ -10122,6 +10200,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 60,
       "rarity": "Common",
       "rarity_name": {
@@ -10189,6 +10268,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 50,
       "rarity": "Common",
       "rarity_name": {
@@ -10256,6 +10336,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -10323,6 +10404,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 50,
       "rarity": "Common",
       "rarity_name": {
@@ -10390,6 +10472,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 54,
       "rarity": "Common",
       "rarity_name": {
@@ -10507,6 +10590,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7719,
       "rarity": "Rare",
       "rarity_name": {
@@ -10634,6 +10718,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 540,
       "rarity": "Common",
       "rarity_name": {
@@ -10751,6 +10836,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 279,
       "rarity": "Common",
       "rarity_name": {
@@ -10856,6 +10942,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 225,
       "rarity": "Common",
       "rarity_name": {
@@ -10961,6 +11048,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 333,
       "rarity": "Common",
       "rarity_name": {
@@ -11066,6 +11154,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 330,
       "rarity": "Common",
       "rarity_name": {
@@ -11183,6 +11272,7 @@
         "ko": "보조"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 258,
       "rarity": "Common",
       "rarity_name": {
@@ -11288,6 +11378,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 732,
       "rarity": "Common",
       "rarity_name": {
@@ -11393,6 +11484,7 @@
         "ko": "일반"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 1203,
       "rarity": "Common",
       "rarity_name": {
@@ -11498,6 +11590,7 @@
         "ko": "일반"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 1935,
       "rarity": "Common",
       "rarity_name": {
@@ -11603,6 +11696,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 468,
       "rarity": "Common",
       "rarity_name": {
@@ -11708,6 +11802,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 651,
       "rarity": "Common",
       "rarity_name": {
@@ -11813,6 +11908,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 804,
       "rarity": "Common",
       "rarity_name": {
@@ -11918,6 +12014,7 @@
         "ko": "일반"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 912,
       "rarity": "Common",
       "rarity_name": {
@@ -12035,6 +12132,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 723,
       "rarity": "Common",
       "rarity_name": {
@@ -12140,6 +12238,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 96,
       "rarity": "Common",
       "rarity_name": {
@@ -12233,6 +12332,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 261,
       "rarity": "Common",
       "rarity_name": {
@@ -12326,6 +12426,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 300,
       "rarity": "Common",
       "rarity_name": {
@@ -12419,6 +12520,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 123,
       "rarity": "Common",
       "rarity_name": {
@@ -12512,6 +12614,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4770,
       "rarity": "Rare",
       "rarity_name": {
@@ -12627,6 +12730,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 660,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -12723,6 +12827,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4092,
       "rarity": "Rare",
       "rarity_name": {
@@ -12838,6 +12943,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 297,
       "rarity": "Common",
       "rarity_name": {
@@ -12931,6 +13037,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 378,
       "rarity": "Common",
       "rarity_name": {
@@ -13024,6 +13131,7 @@
         "ko": "일반"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 459,
       "rarity": "Common",
       "rarity_name": {
@@ -13117,6 +13225,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 537,
       "rarity": "Common",
       "rarity_name": {
@@ -13222,6 +13331,7 @@
         "ko": "제조"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 978,
       "rarity": "Common",
       "rarity_name": {
@@ -13327,6 +13437,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 180,
       "rarity": "Common",
       "rarity_name": {
@@ -13420,6 +13531,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 321,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -13525,6 +13637,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1149,
       "rarity": "Rare",
       "rarity_name": {
@@ -13638,6 +13751,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8253,
       "rarity": "Rare",
       "rarity_name": {
@@ -13761,6 +13875,7 @@
         "ko": "보조"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -13866,6 +13981,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 350,
       "rarity": "Common",
       "rarity_name": {
@@ -13933,6 +14049,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 75,
       "rarity": "Common",
       "rarity_name": {
@@ -14000,6 +14117,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 200,
       "rarity": "Common",
       "rarity_name": {
@@ -14067,6 +14185,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 137,
       "rarity": "Common",
       "rarity_name": {
@@ -14134,6 +14253,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -14201,6 +14321,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1308,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -14346,6 +14467,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5946,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -14454,6 +14576,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 144,
       "rarity": "Common",
       "rarity_name": {
@@ -14550,6 +14673,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 200,
       "rarity": "Common",
       "rarity_name": {
@@ -14617,6 +14741,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 252,
       "rarity": "Common",
       "rarity_name": {
@@ -14722,6 +14847,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 306,
       "rarity": "Common",
       "rarity_name": {
@@ -14827,6 +14953,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 99,
       "rarity": "Common",
       "rarity_name": {
@@ -14894,6 +15021,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 192,
       "rarity": "Common",
       "rarity_name": {
@@ -14986,6 +15114,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -15052,6 +15181,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -15118,6 +15248,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -15184,6 +15315,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -15250,6 +15382,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -15317,6 +15450,7 @@
         "ko": "제조"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 267,
       "rarity": "Common",
       "rarity_name": {
@@ -15422,6 +15556,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1356,
       "rarity": "Common",
       "rarity_name": {
@@ -15515,6 +15650,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 405,
       "rarity": "Common",
       "rarity_name": {
@@ -15632,6 +15768,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 222,
       "rarity": "Common",
       "rarity_name": {
@@ -15725,6 +15862,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 804,
       "rarity": "Common",
       "rarity_name": {
@@ -15854,6 +15992,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 642,
       "rarity": "Common",
       "rarity_name": {
@@ -15947,6 +16086,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 243,
       "rarity": "Common",
       "rarity_name": {
@@ -16076,6 +16216,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 588,
       "rarity": "Common",
       "rarity_name": {
@@ -16169,6 +16310,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 186,
       "rarity": "Common",
       "rarity_name": {
@@ -16294,6 +16436,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 873,
       "rarity": "Common",
       "rarity_name": {
@@ -16423,6 +16566,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2379,
       "rarity": "Common",
       "rarity_name": {
@@ -16519,6 +16663,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1194,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -16627,6 +16772,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1221,
       "rarity": "Common",
       "rarity_name": {
@@ -16732,6 +16878,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 6810,
       "rarity": "Rare",
       "rarity_name": {
@@ -16858,6 +17005,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 1200,
       "rarity": "Rare",
       "rarity_name": {
@@ -16925,6 +17073,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1266,
       "rarity": "Common",
       "rarity_name": {
@@ -17052,6 +17201,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2124,
       "rarity": "Common",
       "rarity_name": {
@@ -17157,6 +17307,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2802,
       "rarity": "Rare",
       "rarity_name": {
@@ -17272,6 +17423,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 774,
       "rarity": "Common",
       "rarity_name": {
@@ -17365,6 +17517,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1245,
       "rarity": "Common",
       "rarity_name": {
@@ -17470,6 +17623,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 18591,
       "rarity": "Rare",
       "rarity_name": {
@@ -17585,6 +17739,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1953,
       "rarity": "Common",
       "rarity_name": {
@@ -17693,6 +17848,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -17760,6 +17916,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 90,
       "rarity": "Common",
       "rarity_name": {
@@ -17827,6 +17984,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 50,
       "rarity": "Common",
       "rarity_name": {
@@ -17894,6 +18052,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -17961,6 +18120,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5496,
       "rarity": "Rare",
       "rarity_name": {
@@ -18114,6 +18274,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1890,
       "rarity": "Rare",
       "rarity_name": {
@@ -18242,6 +18403,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1389,
       "rarity": "Common",
       "rarity_name": {
@@ -18387,6 +18549,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5658,
       "rarity": "Rare",
       "rarity_name": {
@@ -18522,6 +18685,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -18588,6 +18752,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 594,
       "rarity": "Common",
       "rarity_name": {
@@ -18681,6 +18846,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 870,
       "rarity": "Common",
       "rarity_name": {
@@ -18786,6 +18952,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2088,
       "rarity": "Common",
       "rarity_name": {
@@ -18890,6 +19057,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -18955,6 +19123,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -19021,6 +19190,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3288,
       "rarity": "Common",
       "rarity_name": {
@@ -19126,6 +19296,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -19231,6 +19402,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 12843,
       "rarity": "Rare",
       "rarity_name": {
@@ -19354,6 +19526,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 29256,
       "rarity": "Rare",
       "rarity_name": {
@@ -19476,6 +19649,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4821,
       "rarity": "Rare",
       "rarity_name": {
@@ -19629,6 +19803,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1236,
       "rarity": "Common",
       "rarity_name": {
@@ -19746,6 +19921,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1302,
       "rarity": "Common",
       "rarity_name": {
@@ -19863,6 +20039,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2259,
       "rarity": "Common",
       "rarity_name": {
@@ -19968,6 +20145,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2430,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -20093,6 +20271,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2382,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -20221,6 +20400,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -20326,6 +20506,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 279,
       "rarity": "Common",
       "rarity_name": {
@@ -20431,6 +20612,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 252,
       "rarity": "Common",
       "rarity_name": {
@@ -20536,6 +20718,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 13584,
       "rarity": "Rare",
       "rarity_name": {
@@ -20671,6 +20854,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -20738,6 +20922,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -20805,6 +20990,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -20872,6 +21058,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -20939,6 +21126,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21006,6 +21194,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21073,6 +21262,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21140,6 +21330,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21207,6 +21398,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21274,6 +21466,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21341,6 +21534,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21408,6 +21602,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21475,6 +21670,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21542,6 +21738,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21609,6 +21806,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21676,6 +21874,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -21743,6 +21942,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 636,
       "rarity": "Common",
       "rarity_name": {
@@ -21848,6 +22048,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 438,
       "rarity": "Common",
       "rarity_name": {
@@ -21953,6 +22154,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 306,
       "rarity": "Common",
       "rarity_name": {
@@ -22058,6 +22260,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1239,
       "rarity": "Common",
       "rarity_name": {
@@ -22151,6 +22354,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 8433,
       "rarity": "Rare",
       "rarity_name": {
@@ -22268,6 +22472,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 96,
       "rarity": "Common",
       "rarity_name": {
@@ -22361,6 +22566,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 123,
       "rarity": "Common",
       "rarity_name": {
@@ -22454,6 +22660,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 50,
       "rarity": "Common",
       "rarity_name": {
@@ -22521,6 +22728,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1017,
       "rarity": "Common",
       "rarity_name": {
@@ -22626,6 +22834,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -22693,6 +22902,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -22760,6 +22970,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -22827,6 +23038,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -22894,6 +23106,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -22961,6 +23174,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -23028,6 +23242,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -23095,6 +23310,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -23162,6 +23378,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 573,
       "rarity": "Common",
       "rarity_name": {
@@ -23278,6 +23495,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -23344,6 +23562,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 390,
       "rarity": "Common",
       "rarity_name": {
@@ -23448,6 +23667,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -23514,6 +23734,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 399,
       "rarity": "Common",
       "rarity_name": {
@@ -23618,6 +23839,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -23684,6 +23906,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1662,
       "rarity": "Rare",
       "rarity_name": {
@@ -23837,6 +24060,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 906,
       "rarity": "Common",
       "rarity_name": {
@@ -23954,6 +24178,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 549,
       "rarity": "Common",
       "rarity_name": {
@@ -24059,6 +24284,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 783,
       "rarity": "Common",
       "rarity_name": {
@@ -24176,6 +24402,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1116,
       "rarity": "Common",
       "rarity_name": {
@@ -24293,6 +24520,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1710,
       "rarity": "Common",
       "rarity_name": {
@@ -24398,6 +24626,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1920,
       "rarity": "Common",
       "rarity_name": {
@@ -24539,6 +24768,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1152,
       "rarity": "Common",
       "rarity_name": {
@@ -24680,6 +24910,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 21798,
       "rarity": "Rare",
       "rarity_name": {
@@ -24819,6 +25050,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1194,
       "rarity": "Common",
       "rarity_name": {
@@ -24924,6 +25156,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 22206,
       "rarity": "Rare",
       "rarity_name": {
@@ -25063,6 +25296,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 27837,
       "rarity": "Rare",
       "rarity_name": {
@@ -25202,6 +25436,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 20946,
       "rarity": "Rare",
       "rarity_name": {
@@ -25351,6 +25586,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9804,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -25480,6 +25716,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 786,
       "rarity": "Common",
       "rarity_name": {
@@ -25585,6 +25822,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 309,
       "rarity": "Common",
       "rarity_name": {
@@ -25690,6 +25928,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 630,
       "rarity": "Common",
       "rarity_name": {
@@ -25795,6 +26034,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 14928,
       "rarity": "Rare",
       "rarity_name": {
@@ -25935,6 +26175,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 966,
       "rarity": "Common",
       "rarity_name": {
@@ -26052,6 +26293,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 876,
       "rarity": "Common",
       "rarity_name": {
@@ -26169,6 +26411,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 22188,
       "rarity": "Rare",
       "rarity_name": {
@@ -26324,6 +26567,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3435,
       "rarity": "Common",
       "rarity_name": {
@@ -26449,6 +26693,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3378,
       "rarity": "Common",
       "rarity_name": {
@@ -26566,6 +26811,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 858,
       "rarity": "Common",
       "rarity_name": {
@@ -26695,6 +26941,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 888,
       "rarity": "Common",
       "rarity_name": {
@@ -26824,6 +27071,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3225,
       "rarity": "Common",
       "rarity_name": {
@@ -26960,6 +27208,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -27026,6 +27275,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 13113,
       "rarity": "Rare",
       "rarity_name": {
@@ -27153,6 +27403,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3744,
       "rarity": "Common",
       "rarity_name": {
@@ -27289,6 +27540,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 15261,
       "rarity": "Rare",
       "rarity_name": {
@@ -27421,6 +27673,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -27471,7 +27724,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 2.0,
+        "shot_cooldown": 3.0,
         "rotate_speed": 25.0
       }
     },
@@ -27513,6 +27766,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 20847,
       "rarity": "Rare",
       "rarity_name": {
@@ -27668,6 +27922,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5955,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -27811,6 +28066,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 150,
       "rarity": "Common",
       "rarity_name": {
@@ -27916,6 +28172,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 384,
       "rarity": "Common",
       "rarity_name": {
@@ -28057,6 +28314,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 525,
       "rarity": "Common",
       "rarity_name": {
@@ -28150,6 +28408,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 453,
       "rarity": "Common",
       "rarity_name": {
@@ -28291,6 +28550,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1419,
       "rarity": "Common",
       "rarity_name": {
@@ -28428,6 +28688,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 480,
       "rarity": "Common",
       "rarity_name": {
@@ -28533,6 +28794,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 786,
       "rarity": "Common",
       "rarity_name": {
@@ -28650,6 +28912,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 321,
       "rarity": "Common",
       "rarity_name": {
@@ -28755,6 +29018,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1674,
       "rarity": "Common",
       "rarity_name": {
@@ -28872,6 +29136,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 15636,
       "rarity": "Rare",
       "rarity_name": {
@@ -29025,6 +29290,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2046,
       "rarity": "Common",
       "rarity_name": {
@@ -29142,6 +29408,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4764,
       "rarity": "Common",
       "rarity_name": {
@@ -29259,6 +29526,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2388,
       "rarity": "Rare",
       "rarity_name": {
@@ -29388,6 +29656,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 33960,
       "rarity": "Rare",
       "rarity_name": {
@@ -29543,6 +29812,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 642,
       "rarity": "Common",
       "rarity_name": {
@@ -29648,6 +29918,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 276,
       "rarity": "Common",
       "rarity_name": {
@@ -29741,6 +30012,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 252,
       "rarity": "Common",
       "rarity_name": {
@@ -29834,6 +30106,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 258,
       "rarity": "Common",
       "rarity_name": {
@@ -29939,6 +30212,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 204,
       "rarity": "Common",
       "rarity_name": {
@@ -30044,6 +30318,7 @@
         "ko": "전력"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 12582,
       "rarity": "Rare",
       "rarity_name": {
@@ -30201,6 +30476,7 @@
         "ko": "제조"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 13143,
       "rarity": "Rare",
       "rarity_name": {
@@ -30318,6 +30594,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7959,
       "rarity": "Rare",
       "rarity_name": {
@@ -30435,6 +30712,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 400,
       "rarity": "Common",
       "rarity_name": {
@@ -30502,6 +30780,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1191,
       "rarity": "Rare",
       "rarity_name": {
@@ -30611,6 +30890,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5010,
       "rarity": "Common",
       "rarity_name": {
@@ -30704,6 +30984,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 744,
       "rarity": "Common",
       "rarity_name": {
@@ -30809,6 +31090,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -30876,6 +31158,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -30942,6 +31225,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -31008,6 +31292,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1332,
       "rarity": "Common",
       "rarity_name": {
@@ -31101,6 +31386,7 @@
         "ko": "제조"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 2592,
       "rarity": "Common",
       "rarity_name": {
@@ -31194,6 +31480,7 @@
         "ko": "제조"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 6156,
       "rarity": "Common",
       "rarity_name": {
@@ -31287,6 +31574,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 23181,
       "rarity": "Rare",
       "rarity_name": {
@@ -31416,6 +31704,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 411,
       "rarity": "Common",
       "rarity_name": {
@@ -31521,6 +31810,7 @@
         "ko": "무기"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 43878,
       "rarity": "Rare",
       "rarity_name": {
@@ -31676,6 +31966,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 200,
       "rarity": "Common",
       "rarity_name": {
@@ -31743,6 +32034,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 200,
       "rarity": "Common",
       "rarity_name": {
@@ -31810,6 +32102,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -31877,6 +32170,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -31944,6 +32238,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Common",
       "rarity_name": {
@@ -32011,6 +32306,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Common",
       "rarity_name": {
@@ -32078,6 +32374,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1500,
       "rarity": "Common",
       "rarity_name": {
@@ -32145,6 +32442,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1500,
       "rarity": "Common",
       "rarity_name": {
@@ -32212,6 +32510,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1500,
       "rarity": "Common",
       "rarity_name": {
@@ -32279,6 +32578,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -32346,6 +32646,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -32437,6 +32738,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 750,
       "rarity": "Common",
       "rarity_name": {
@@ -32528,6 +32830,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10086,
       "rarity": "Common",
       "rarity_name": {
@@ -32657,6 +32960,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10368,
       "rarity": "Common",
       "rarity_name": {
@@ -32786,6 +33090,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1809,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -32913,6 +33218,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1899,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33021,6 +33327,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1893,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33129,6 +33436,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 450,
       "rarity": "Common",
       "rarity_name": {
@@ -33234,6 +33542,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9798,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33375,6 +33684,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 324,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33504,6 +33814,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 378,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33633,6 +33944,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 10110,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -33762,6 +34074,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2946,
       "rarity": "Common",
       "rarity_name": {
@@ -33891,6 +34204,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2802,
       "rarity": "Common",
       "rarity_name": {
@@ -34020,6 +34334,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3228,
       "rarity": "Common",
       "rarity_name": {
@@ -34149,6 +34464,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 19284,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -34278,6 +34594,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 19596,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -34418,6 +34735,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -34484,6 +34802,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 477,
       "rarity": "Common",
       "rarity_name": {
@@ -34589,6 +34908,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 216,
       "rarity": "Common",
       "rarity_name": {
@@ -34670,6 +34990,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 432,
       "rarity": "Common",
       "rarity_name": {
@@ -34751,6 +35072,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 552,
       "rarity": "Common",
       "rarity_name": {
@@ -34832,6 +35154,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 648,
       "rarity": "Common",
       "rarity_name": {
@@ -34913,6 +35236,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 720,
       "rarity": "Common",
       "rarity_name": {
@@ -34994,6 +35318,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1800,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -35075,6 +35400,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1992,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -35156,6 +35482,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2160,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -35237,6 +35564,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5400,
       "rarity": "Rare",
       "rarity_name": {
@@ -35318,6 +35646,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5592,
       "rarity": "Rare",
       "rarity_name": {
@@ -35399,6 +35728,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5760,
       "rarity": "Rare",
       "rarity_name": {
@@ -35480,6 +35810,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 648,
       "rarity": "Common",
       "rarity_name": {
@@ -35561,6 +35892,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1296,
       "rarity": "Common",
       "rarity_name": {
@@ -35642,6 +35974,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1656,
       "rarity": "Common",
       "rarity_name": {
@@ -35723,6 +36056,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1944,
       "rarity": "Common",
       "rarity_name": {
@@ -35804,6 +36138,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2160,
       "rarity": "Common",
       "rarity_name": {
@@ -35885,6 +36220,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5400,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -35966,6 +36302,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5976,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -36047,6 +36384,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 6480,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -36128,6 +36466,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 16200,
       "rarity": "Rare",
       "rarity_name": {
@@ -36209,6 +36548,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 16776,
       "rarity": "Rare",
       "rarity_name": {
@@ -36290,6 +36630,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 17280,
       "rarity": "Rare",
       "rarity_name": {
@@ -36371,6 +36712,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1728,
       "rarity": "Common",
       "rarity_name": {
@@ -36452,6 +36794,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3456,
       "rarity": "Common",
       "rarity_name": {
@@ -36533,6 +36876,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4416,
       "rarity": "Common",
       "rarity_name": {
@@ -36614,6 +36958,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5184,
       "rarity": "Common",
       "rarity_name": {
@@ -36695,6 +37040,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5760,
       "rarity": "Common",
       "rarity_name": {
@@ -36776,6 +37122,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 14400,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -36857,6 +37204,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 15936,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -36938,6 +37286,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 17280,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -37019,6 +37368,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 43200,
       "rarity": "Rare",
       "rarity_name": {
@@ -37100,6 +37450,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 44736,
       "rarity": "Rare",
       "rarity_name": {
@@ -37181,6 +37532,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 46080,
       "rarity": "Rare",
       "rarity_name": {
@@ -37262,6 +37614,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3240,
       "rarity": "Common",
       "rarity_name": {
@@ -37343,6 +37696,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 6480,
       "rarity": "Common",
       "rarity_name": {
@@ -37424,6 +37778,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8280,
       "rarity": "Common",
       "rarity_name": {
@@ -37505,6 +37860,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9720,
       "rarity": "Common",
       "rarity_name": {
@@ -37586,6 +37942,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10800,
       "rarity": "Common",
       "rarity_name": {
@@ -37667,6 +38024,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 27000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -37748,6 +38106,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 29880,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -37829,6 +38188,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 32400,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -37910,6 +38270,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 81000,
       "rarity": "Rare",
       "rarity_name": {
@@ -37991,6 +38352,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 83880,
       "rarity": "Rare",
       "rarity_name": {
@@ -38072,6 +38434,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 86400,
       "rarity": "Rare",
       "rarity_name": {
@@ -38152,6 +38515,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -38218,6 +38582,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 19389,
       "rarity": "Rare",
       "rarity_name": {
@@ -38344,6 +38709,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -38409,6 +38775,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -38474,6 +38841,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -38540,6 +38908,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -38645,6 +39014,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 750,
       "rarity": "Common",
       "rarity_name": {
@@ -38750,6 +39120,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 828,
       "rarity": "Common",
       "rarity_name": {
@@ -38867,6 +39238,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 738,
       "rarity": "Common",
       "rarity_name": {
@@ -38984,6 +39356,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1332,
       "rarity": "Common",
       "rarity_name": {
@@ -39101,6 +39474,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1422,
       "rarity": "Common",
       "rarity_name": {
@@ -39217,6 +39591,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
@@ -39286,6 +39661,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2961,
       "rarity": "Rare",
       "rarity_name": {
@@ -39383,6 +39759,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 810,
       "rarity": "Common",
       "rarity_name": {
@@ -39500,6 +39877,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1350,
       "rarity": "Common",
       "rarity_name": {
@@ -39617,6 +39995,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5700,
       "rarity": "Rare",
       "rarity_name": {
@@ -39770,6 +40149,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2040,
       "rarity": "Common",
       "rarity_name": {
@@ -39875,6 +40255,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1704,
       "rarity": "Common",
       "rarity_name": {
@@ -39992,6 +40373,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9906,
       "rarity": "Rare",
       "rarity_name": {
@@ -40108,6 +40490,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1428,
       "rarity": "Common",
       "rarity_name": {
@@ -40225,6 +40608,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 618,
       "rarity": "Common",
       "rarity_name": {
@@ -40342,6 +40726,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2100,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -40458,6 +40843,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1956,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -40562,6 +40948,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1218,
       "rarity": "Rare",
       "rarity_name": {
@@ -40671,6 +41058,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 321,
       "rarity": "Common",
       "rarity_name": {
@@ -40788,6 +41176,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10833,
       "rarity": "Rare",
       "rarity_name": {
@@ -40905,6 +41294,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 189,
       "rarity": "Common",
       "rarity_name": {
@@ -41010,6 +41400,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 423,
       "rarity": "Common",
       "rarity_name": {
@@ -41115,6 +41506,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 477,
       "rarity": "Common",
       "rarity_name": {
@@ -41220,6 +41612,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 612,
       "rarity": "Common",
       "rarity_name": {
@@ -41325,6 +41718,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 585,
       "rarity": "Common",
       "rarity_name": {
@@ -41430,6 +41824,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 396,
       "rarity": "Common",
       "rarity_name": {
@@ -41535,6 +41930,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9363,
       "rarity": "Rare",
       "rarity_name": {
@@ -41652,6 +42048,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 7863,
       "rarity": "Rare",
       "rarity_name": {
@@ -41779,6 +42176,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 450,
       "rarity": "Common",
       "rarity_name": {
@@ -41884,6 +42282,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 477,
       "rarity": "Common",
       "rarity_name": {
@@ -41989,6 +42388,7 @@
         "ko": "바퀴"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 1698,
       "rarity": "Common",
       "rarity_name": {
@@ -42118,6 +42518,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2376,
       "rarity": "Rare",
       "rarity_name": {
@@ -42233,6 +42634,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42300,6 +42702,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42367,6 +42770,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42434,6 +42838,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42501,6 +42906,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42568,6 +42974,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42635,6 +43042,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42702,6 +43110,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42769,6 +43178,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42836,6 +43246,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42903,6 +43314,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -42970,6 +43382,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1000,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -43037,6 +43450,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 204,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -43130,6 +43544,7 @@
         "ko": "보조"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 984,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -43223,6 +43638,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2778,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -43448,6 +43864,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 408,
       "rarity": "Common",
       "rarity_name": {
@@ -43541,6 +43958,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 846,
       "rarity": "Common",
       "rarity_name": {
@@ -43646,6 +44064,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 234,
       "rarity": "Common",
       "rarity_name": {
@@ -43739,6 +44158,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 168,
       "rarity": "Common",
       "rarity_name": {
@@ -43832,6 +44252,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 342,
       "rarity": "Common",
       "rarity_name": {
@@ -43925,6 +44346,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 114,
       "rarity": "Common",
       "rarity_name": {
@@ -44018,6 +44440,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 282,
       "rarity": "Common",
       "rarity_name": {
@@ -44111,6 +44534,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 174,
       "rarity": "Common",
       "rarity_name": {
@@ -44204,6 +44628,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 456,
       "rarity": "Common",
       "rarity_name": {
@@ -44297,6 +44722,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 684,
       "rarity": "Common",
       "rarity_name": {
@@ -44390,6 +44816,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 228,
       "rarity": "Common",
       "rarity_name": {
@@ -44483,6 +44910,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 288,
       "rarity": "Common",
       "rarity_name": {
@@ -44576,6 +45004,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5481,
       "rarity": "Common",
       "rarity_name": {
@@ -44717,6 +45146,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2160,
       "rarity": "Common",
       "rarity_name": {
@@ -44834,6 +45264,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1677,
       "rarity": "Common",
       "rarity_name": {
@@ -44951,6 +45382,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 915,
       "rarity": "Common",
       "rarity_name": {
@@ -45068,6 +45500,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1293,
       "rarity": "Common",
       "rarity_name": {
@@ -45184,6 +45617,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -45249,6 +45683,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -45314,6 +45749,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -45380,6 +45816,7 @@
         "ko": "무기"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 13008,
       "rarity": "Common",
       "rarity_name": {
@@ -45481,7 +45918,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 2.0,
+        "shot_cooldown": 1.5,
         "rotate_speed": 20.0
       }
     },
@@ -45523,6 +45960,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24882,
       "rarity": "Rare",
       "rarity_name": {
@@ -45636,7 +46074,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 1.0,
         "rotate_speed": 60.0
       }
     },
@@ -45678,6 +46116,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 6753,
       "rarity": "Rare",
       "rarity_name": {
@@ -45806,6 +46245,7 @@
         "ko": "무기"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 3132,
       "rarity": "Common",
       "rarity_name": {
@@ -45930,6 +46370,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2094,
       "rarity": "Common",
       "rarity_name": {
@@ -46053,6 +46494,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "price": 216,
       "rarity": "Common",
       "rarity_name": {
@@ -46119,6 +46561,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "price": 1809,
       "rarity": "Common",
       "rarity_name": {
@@ -46185,6 +46628,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "price": 411,
       "rarity": "Common",
       "rarity_name": {
@@ -46251,6 +46695,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "price": 342,
       "rarity": "Common",
       "rarity_name": {
@@ -46318,6 +46763,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 414,
       "rarity": "Common",
       "rarity_name": {
@@ -46423,6 +46869,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 702,
       "rarity": "Common",
       "rarity_name": {
@@ -46528,6 +46975,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46589,6 +47037,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46650,6 +47099,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46711,6 +47161,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46772,6 +47223,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46833,6 +47285,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46894,6 +47347,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -46955,6 +47409,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -47016,6 +47471,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -47077,6 +47533,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 200,
       "rarity": "Common",
       "rarity_name": {
@@ -47138,6 +47595,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -47199,6 +47657,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -47266,6 +47725,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Common",
       "rarity_name": {
@@ -47327,6 +47787,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 450,
       "rarity": "Common",
       "rarity_name": {
@@ -47432,6 +47893,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 261,
       "rarity": "Common",
       "rarity_name": {
@@ -47525,6 +47987,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8808,
       "rarity": "Common",
       "rarity_name": {
@@ -47666,6 +48129,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2916,
       "rarity": "Common",
       "rarity_name": {
@@ -47807,6 +48271,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 20106,
       "rarity": "Rare",
       "rarity_name": {
@@ -47950,6 +48415,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7461,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -48084,6 +48550,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1209,
       "rarity": "Common",
       "rarity_name": {
@@ -48221,6 +48688,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2328,
       "rarity": "Common",
       "rarity_name": {
@@ -48346,6 +48814,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3663,
       "rarity": "Common",
       "rarity_name": {
@@ -48471,6 +48940,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2856,
       "rarity": "Common",
       "rarity_name": {
@@ -48608,6 +49078,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 12264,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -48733,6 +49204,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 31845,
       "rarity": "Rare",
       "rarity_name": {
@@ -48888,6 +49360,7 @@
         "ko": "무기"
       },
       "grade": 4,
+      "player_facing": true,
       "price": 20184,
       "rarity": "Rare",
       "rarity_name": {
@@ -49043,6 +49516,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2658,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -49139,6 +49613,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2256,
       "rarity": "Common",
       "rarity_name": {
@@ -49282,6 +49757,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3321,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -49407,6 +49883,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3237,
       "rarity": "Common",
       "rarity_name": {
@@ -49550,6 +50027,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 12204,
       "rarity": "Rare",
       "rarity_name": {
@@ -49658,6 +50136,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 12108,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -49799,6 +50278,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9933,
       "rarity": "Rare",
       "rarity_name": {
@@ -49942,6 +50422,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4386,
       "rarity": "Rare",
       "rarity_name": {
@@ -50081,6 +50562,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 10662,
       "rarity": "Rare",
       "rarity_name": {
@@ -50224,6 +50706,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6795,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -50365,6 +50848,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1050,
       "rarity": "Common",
       "rarity_name": {
@@ -50470,6 +50954,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1881,
       "rarity": "Common",
       "rarity_name": {
@@ -50575,6 +51060,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2418,
       "rarity": "Common",
       "rarity_name": {
@@ -50680,6 +51166,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3174,
       "rarity": "Common",
       "rarity_name": {
@@ -50785,6 +51272,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4077,
       "rarity": "Common",
       "rarity_name": {
@@ -50921,6 +51409,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3036,
       "rarity": "Common",
       "rarity_name": {
@@ -51057,6 +51546,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9456,
       "rarity": "Rare",
       "rarity_name": {
@@ -51146,7 +51636,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 3.0,
         "rotate_speed": 0.0
       }
     },
@@ -51188,6 +51678,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3912,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -51308,6 +51799,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 20826,
       "rarity": "Rare",
       "rarity_name": {
@@ -51439,6 +51931,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
@@ -51526,6 +52019,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
@@ -51595,6 +52089,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7869,
       "rarity": "Rare",
       "rarity_name": {
@@ -51719,6 +52214,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3870,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -51827,6 +52323,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5853,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -51947,6 +52444,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1587,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -52007,7 +52505,7 @@
         "kickback_strength": 30.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.1,
+        "shot_cooldown": 0.0,
         "rotate_speed": 0.0
       },
       "BeamWeapon": {
@@ -52062,6 +52560,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9999,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -52205,6 +52704,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 18240,
       "rarity": "Rare",
       "rarity_name": {
@@ -52332,6 +52832,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4446,
       "rarity": "Common",
       "rarity_name": {
@@ -52449,6 +52950,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1479,
       "rarity": "Common",
       "rarity_name": {
@@ -52566,6 +53068,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2052,
       "rarity": "Common",
       "rarity_name": {
@@ -52683,6 +53186,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 333,
       "rarity": "Common",
       "rarity_name": {
@@ -52788,6 +53292,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 495,
       "rarity": "Common",
       "rarity_name": {
@@ -52893,6 +53398,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 522,
       "rarity": "Common",
       "rarity_name": {
@@ -52998,6 +53504,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8013,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -53126,6 +53633,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 8094,
       "rarity": "Rare",
       "rarity_name": {
@@ -53243,6 +53751,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24999,
       "rarity": "Rare",
       "rarity_name": {
@@ -53392,6 +53901,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 19956,
       "rarity": "Rare",
       "rarity_name": {
@@ -53521,6 +54031,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 768,
       "rarity": "Common",
       "rarity_name": {
@@ -53638,6 +54149,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 837,
       "rarity": "Common",
       "rarity_name": {
@@ -53755,6 +54267,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 849,
       "rarity": "Common",
       "rarity_name": {
@@ -53872,6 +54385,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 624,
       "rarity": "Common",
       "rarity_name": {
@@ -53989,6 +54503,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 912,
       "rarity": "Common",
       "rarity_name": {
@@ -54106,6 +54621,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1509,
       "rarity": "Common",
       "rarity_name": {
@@ -54223,6 +54739,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2106,
       "rarity": "Common",
       "rarity_name": {
@@ -54340,6 +54857,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2703,
       "rarity": "Common",
       "rarity_name": {
@@ -54457,6 +54975,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 534,
       "rarity": "Common",
       "rarity_name": {
@@ -54574,6 +55093,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 768,
       "rarity": "Common",
       "rarity_name": {
@@ -54691,6 +55211,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1365,
       "rarity": "Common",
       "rarity_name": {
@@ -54808,6 +55329,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1962,
       "rarity": "Common",
       "rarity_name": {
@@ -54925,6 +55447,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2559,
       "rarity": "Common",
       "rarity_name": {
@@ -55042,6 +55565,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1356,
       "rarity": "Common",
       "rarity_name": {
@@ -55159,6 +55683,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2730,
       "rarity": "Common",
       "rarity_name": {
@@ -55276,6 +55801,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2649,
       "rarity": "Common",
       "rarity_name": {
@@ -55393,6 +55919,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3924,
       "rarity": "Common",
       "rarity_name": {
@@ -55510,6 +56037,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3843,
       "rarity": "Common",
       "rarity_name": {
@@ -55627,6 +56155,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5118,
       "rarity": "Common",
       "rarity_name": {
@@ -55744,6 +56273,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5037,
       "rarity": "Common",
       "rarity_name": {
@@ -55861,6 +56391,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1275,
       "rarity": "Common",
       "rarity_name": {
@@ -55978,6 +56509,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1590,
       "rarity": "Common",
       "rarity_name": {
@@ -56095,6 +56627,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2163,
       "rarity": "Rare",
       "rarity_name": {
@@ -56243,6 +56776,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1152,
       "rarity": "Common",
       "rarity_name": {
@@ -56384,6 +56918,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1935,
       "rarity": "Common",
       "rarity_name": {
@@ -56525,6 +57060,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2073,
       "rarity": "Common",
       "rarity_name": {
@@ -56666,6 +57202,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3726,
       "rarity": "Common",
       "rarity_name": {
@@ -56807,6 +57344,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3864,
       "rarity": "Common",
       "rarity_name": {
@@ -56948,6 +57486,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2187,
       "rarity": "Common",
       "rarity_name": {
@@ -57065,6 +57604,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2784,
       "rarity": "Common",
       "rarity_name": {
@@ -57182,6 +57722,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1899,
       "rarity": "Common",
       "rarity_name": {
@@ -57299,6 +57840,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2070,
       "rarity": "Common",
       "rarity_name": {
@@ -57416,6 +57958,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 723,
       "rarity": "Common",
       "rarity_name": {
@@ -57533,6 +58076,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3345,
       "rarity": "Common",
       "rarity_name": {
@@ -57650,6 +58194,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4806,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -57775,6 +58320,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 19224,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -57900,6 +58446,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 6282,
       "rarity": "Rare",
       "rarity_name": {
@@ -58004,6 +58551,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7209,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -58140,6 +58688,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7236,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -58276,6 +58825,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 12015,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -58412,6 +58962,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 12042,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -58548,6 +59099,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5874,
       "rarity": "Rare",
       "rarity_name": {
@@ -58657,6 +59209,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9612,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -58785,6 +59338,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4779,
       "rarity": "Common",
       "rarity_name": {
@@ -58913,6 +59467,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2403,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -59041,6 +59596,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 9507,
       "rarity": "Rare",
       "rarity_name": {
@@ -59170,6 +59726,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 8145,
       "rarity": "Rare",
       "rarity_name": {
@@ -59297,6 +59854,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 16290,
       "rarity": "Rare",
       "rarity_name": {
@@ -59424,6 +59982,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1014,
       "rarity": "Common",
       "rarity_name": {
@@ -59541,6 +60100,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4470,
       "rarity": "Rare",
       "rarity_name": {
@@ -59646,6 +60206,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1194,
       "rarity": "Common",
       "rarity_name": {
@@ -59763,6 +60324,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1791,
       "rarity": "Common",
       "rarity_name": {
@@ -59880,6 +60442,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2388,
       "rarity": "Common",
       "rarity_name": {
@@ -59997,6 +60560,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2985,
       "rarity": "Common",
       "rarity_name": {
@@ -60114,6 +60678,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1536,
       "rarity": "Common",
       "rarity_name": {
@@ -60231,6 +60796,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3582,
       "rarity": "Common",
       "rarity_name": {
@@ -60348,6 +60914,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4776,
       "rarity": "Common",
       "rarity_name": {
@@ -60465,6 +61032,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5889,
       "rarity": "Common",
       "rarity_name": {
@@ -60582,6 +61150,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3681,
       "rarity": "Common",
       "rarity_name": {
@@ -60707,6 +61276,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 480,
       "rarity": "Common",
       "rarity_name": {
@@ -60812,6 +61382,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 597,
       "rarity": "Common",
       "rarity_name": {
@@ -60953,6 +61524,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7638,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -61070,6 +61642,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 516,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -61175,6 +61748,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1002,
       "rarity": "Common",
       "rarity_name": {
@@ -61316,6 +61890,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1428,
       "rarity": "Common",
       "rarity_name": {
@@ -61457,6 +62032,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3207,
       "rarity": "Common",
       "rarity_name": {
@@ -61582,6 +62158,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5103,
       "rarity": "Common",
       "rarity_name": {
@@ -61719,6 +62296,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24258,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -61826,7 +62404,7 @@
         "lifetime": 2.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.05,
+        "shot_cooldown": 0.1,
         "rotate_speed": 100.0
       }
     },
@@ -61868,6 +62446,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 11133,
       "rarity": "Rare",
       "rarity_name": {
@@ -61984,6 +62563,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6990,
       "rarity": "Rare",
       "rarity_name": {
@@ -62089,6 +62669,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 20826,
       "rarity": "Rare",
       "rarity_name": {
@@ -62206,6 +62787,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2376,
       "rarity": "Rare",
       "rarity_name": {
@@ -62311,6 +62893,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 19842,
       "rarity": "Rare",
       "rarity_name": {
@@ -62440,6 +63023,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3492,
       "rarity": "Rare",
       "rarity_name": {
@@ -62537,6 +63121,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 9342,
       "rarity": "Rare",
       "rarity_name": {
@@ -62666,6 +63251,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3759,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -62783,6 +63369,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3351,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -62900,6 +63487,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1032,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -63005,6 +63593,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1176,
       "rarity": "Common",
       "rarity_name": {
@@ -63122,6 +63711,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 315,
       "rarity": "Common",
       "rarity_name": {
@@ -63251,6 +63841,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 630,
       "rarity": "Common",
       "rarity_name": {
@@ -63380,6 +63971,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 711,
       "rarity": "Common",
       "rarity_name": {
@@ -63509,6 +64101,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10482,
       "rarity": "Rare",
       "rarity_name": {
@@ -63618,6 +64211,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 324,
       "rarity": "Common",
       "rarity_name": {
@@ -63747,6 +64341,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 510,
       "rarity": "Common",
       "rarity_name": {
@@ -63840,6 +64435,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 396,
       "rarity": "Common",
       "rarity_name": {
@@ -63933,6 +64529,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 486,
       "rarity": "Common",
       "rarity_name": {
@@ -64062,6 +64659,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 858,
       "rarity": "Common",
       "rarity_name": {
@@ -64179,6 +64777,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 912,
       "rarity": "Common",
       "rarity_name": {
@@ -64296,6 +64895,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 384,
       "rarity": "Common",
       "rarity_name": {
@@ -64413,6 +65013,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 453,
       "rarity": "Common",
       "rarity_name": {
@@ -64530,6 +65131,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3615,
       "rarity": "Common",
       "rarity_name": {
@@ -64655,6 +65257,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 29922,
       "rarity": "Rare",
       "rarity_name": {
@@ -64751,7 +65354,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.0,
         "rotate_speed": 25.0
       },
       "BeamWeapon": {
@@ -64806,6 +65409,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 13191,
       "rarity": "Rare",
       "rarity_name": {
@@ -64933,6 +65537,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 240,
       "rarity": "Common",
       "rarity_name": {
@@ -65038,6 +65643,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 13998,
       "rarity": "Rare",
       "rarity_name": {
@@ -65122,7 +65728,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.0,
         "rotate_speed": 50.0
       },
       "BeamWeapon": {
@@ -65177,6 +65783,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 7338,
       "rarity": "Common",
       "rarity_name": {
@@ -65313,6 +65920,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5661,
       "rarity": "Common",
       "rarity_name": {
@@ -65430,6 +66038,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 10614,
       "rarity": "Rare",
       "rarity_name": {
@@ -65547,6 +66156,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9639,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -65672,6 +66282,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1548,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -65777,6 +66388,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3213,
       "rarity": "Rare",
       "rarity_name": {
@@ -65890,6 +66502,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5970,
       "rarity": "Common",
       "rarity_name": {
@@ -66007,6 +66620,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 8955,
       "rarity": "Common",
       "rarity_name": {
@@ -66124,6 +66738,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 11940,
       "rarity": "Common",
       "rarity_name": {
@@ -66241,6 +66856,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2466,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -66337,6 +66953,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2781,
       "rarity": "Common",
       "rarity_name": {
@@ -66454,6 +67071,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5010,
       "rarity": "Common",
       "rarity_name": {
@@ -66547,6 +67165,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 32451,
       "rarity": "Rare",
       "rarity_name": {
@@ -66676,6 +67295,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 8577,
       "rarity": "Rare",
       "rarity_name": {
@@ -66805,6 +67425,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1644,
       "rarity": "Rare",
       "rarity_name": {
@@ -66922,6 +67543,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -67026,6 +67648,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -67092,6 +67715,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 33324,
       "rarity": "Rare",
       "rarity_name": {
@@ -67242,6 +67866,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4833,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -67378,6 +68003,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4860,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -67514,6 +68140,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 8655,
       "rarity": "Rare",
       "rarity_name": {
@@ -67629,6 +68256,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2226,
       "rarity": "Common",
       "rarity_name": {
@@ -67742,6 +68370,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24645,
       "rarity": "Rare",
       "rarity_name": {
@@ -67891,6 +68520,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 10206,
       "rarity": "Common",
       "rarity_name": {
@@ -67975,7 +68605,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.0,
         "rotate_speed": 50.0
       },
       "BeamWeapon": {
@@ -68030,6 +68660,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 24276,
       "rarity": "Rare",
       "rarity_name": {
@@ -68169,6 +68800,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 30105,
       "rarity": "Rare",
       "rarity_name": {
@@ -68308,6 +68940,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 15552,
       "rarity": "Rare",
       "rarity_name": {
@@ -68424,6 +69057,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5655,
       "rarity": "Common",
       "rarity_name": {
@@ -68565,6 +69199,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5373,
       "rarity": "Common",
       "rarity_name": {
@@ -68706,6 +69341,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 501,
       "rarity": "Common",
       "rarity_name": {
@@ -68823,6 +69459,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1203,
       "rarity": "Common",
       "rarity_name": {
@@ -68940,6 +69577,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1518,
       "rarity": "Common",
       "rarity_name": {
@@ -69057,6 +69695,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2115,
       "rarity": "Common",
       "rarity_name": {
@@ -69174,6 +69813,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 492,
       "rarity": "Common",
       "rarity_name": {
@@ -69291,6 +69931,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2355,
       "rarity": "Common",
       "rarity_name": {
@@ -69432,6 +70073,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3672,
       "rarity": "Common",
       "rarity_name": {
@@ -69573,6 +70215,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4428,
       "rarity": "Common",
       "rarity_name": {
@@ -69714,6 +70357,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 957,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -69807,6 +70451,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1914,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -69900,6 +70545,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 957,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -69993,6 +70639,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 21645,
       "rarity": "Rare",
       "rarity_name": {
@@ -70148,6 +70795,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1134,
       "rarity": "Common",
       "rarity_name": {
@@ -70229,6 +70877,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2268,
       "rarity": "Common",
       "rarity_name": {
@@ -70310,6 +70959,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2898,
       "rarity": "Common",
       "rarity_name": {
@@ -70391,6 +71041,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3402,
       "rarity": "Common",
       "rarity_name": {
@@ -70472,6 +71123,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3780,
       "rarity": "Common",
       "rarity_name": {
@@ -70553,6 +71205,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 9450,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -70634,6 +71287,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10458,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -70715,6 +71369,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 11340,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -70796,6 +71451,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 28350,
       "rarity": "Rare",
       "rarity_name": {
@@ -70877,6 +71533,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 29358,
       "rarity": "Rare",
       "rarity_name": {
@@ -70958,6 +71615,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 30240,
       "rarity": "Rare",
       "rarity_name": {
@@ -71039,6 +71697,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 5562,
       "rarity": "Rare",
       "rarity_name": {
@@ -71187,6 +71846,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1509,
       "rarity": "Common",
       "rarity_name": {
@@ -71304,6 +71964,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4326,
       "rarity": "Rare",
       "rarity_name": {
@@ -71409,6 +72070,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9966,
       "rarity": "Rare",
       "rarity_name": {
@@ -71526,6 +72188,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 6642,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -71654,6 +72317,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 23181,
       "rarity": "Rare",
       "rarity_name": {
@@ -71783,6 +72447,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1212,
       "rarity": "Common",
       "rarity_name": {
@@ -71888,6 +72553,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 14061,
       "rarity": "Rare",
       "rarity_name": {
@@ -72045,6 +72711,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2295,
       "rarity": "Common",
       "rarity_name": {
@@ -72150,6 +72817,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2016,
       "rarity": "Common",
       "rarity_name": {
@@ -72267,6 +72935,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2574,
       "rarity": "Common",
       "rarity_name": {
@@ -72384,6 +73053,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2970,
       "rarity": "Common",
       "rarity_name": {
@@ -72489,6 +73159,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 612,
       "rarity": "Common",
       "rarity_name": {
@@ -72606,6 +73277,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1008,
       "rarity": "Common",
       "rarity_name": {
@@ -72723,6 +73395,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1341,
       "rarity": "Common",
       "rarity_name": {
@@ -72840,6 +73513,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1764,
       "rarity": "Common",
       "rarity_name": {
@@ -72945,6 +73619,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1449,
       "rarity": "Common",
       "rarity_name": {
@@ -73062,6 +73737,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 891,
       "rarity": "Common",
       "rarity_name": {
@@ -73179,6 +73855,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1125,
       "rarity": "Common",
       "rarity_name": {
@@ -73296,6 +73973,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1062,
       "rarity": "Common",
       "rarity_name": {
@@ -73413,6 +74091,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1782,
       "rarity": "Common",
       "rarity_name": {
@@ -73530,6 +74209,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 17706,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -73658,6 +74338,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -73723,6 +74404,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -73788,6 +74470,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -73853,6 +74536,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -73919,6 +74603,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 18834,
       "rarity": "Common",
       "rarity_name": {
@@ -74048,6 +74733,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4980,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -74177,6 +74863,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2286,
       "rarity": "Rare",
       "rarity_name": {
@@ -74282,6 +74969,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1644,
       "rarity": "Rare",
       "rarity_name": {
@@ -74387,6 +75075,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1977,
       "rarity": "Rare",
       "rarity_name": {
@@ -74491,6 +75180,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -74557,6 +75247,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 552,
       "rarity": "Rare",
       "rarity_name": {
@@ -74650,6 +75341,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1305,
       "rarity": "Rare",
       "rarity_name": {
@@ -74746,6 +75438,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 972,
       "rarity": "Rare",
       "rarity_name": {
@@ -74863,6 +75556,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1026,
       "rarity": "Rare",
       "rarity_name": {
@@ -74980,6 +75674,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1080,
       "rarity": "Rare",
       "rarity_name": {
@@ -75096,6 +75791,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -75162,6 +75858,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3324,
       "rarity": "Rare",
       "rarity_name": {
@@ -75270,6 +75967,7 @@
         "ja": "制御系",
         "ko": "제어"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -75349,6 +76047,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -75425,6 +76124,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Rare",
       "rarity_name": {
@@ -75492,6 +76192,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9936,
       "rarity": "Rare",
       "rarity_name": {
@@ -75618,6 +76319,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -75684,6 +76386,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1110,
       "rarity": "Rare",
       "rarity_name": {
@@ -75792,6 +76495,7 @@
         "ja": "制御系",
         "ko": "제어"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -75858,6 +76562,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1080,
       "rarity": "Common",
       "rarity_name": {
@@ -75963,6 +76668,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 678,
       "rarity": "Common",
       "rarity_name": {
@@ -76080,6 +76786,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 918,
       "rarity": "Common",
       "rarity_name": {
@@ -76197,6 +76904,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1305,
       "rarity": "Common",
       "rarity_name": {
@@ -76314,6 +77022,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2142,
       "rarity": "Common",
       "rarity_name": {
@@ -76431,6 +77140,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 837,
       "rarity": "Common",
       "rarity_name": {
@@ -76548,6 +77258,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1206,
       "rarity": "Common",
       "rarity_name": {
@@ -76665,6 +77376,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 930,
       "rarity": "Common",
       "rarity_name": {
@@ -76782,6 +77494,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1074,
       "rarity": "Common",
       "rarity_name": {
@@ -76899,6 +77612,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 348,
       "rarity": "Common",
       "rarity_name": {
@@ -76991,6 +77705,7 @@
         "ja": "制御系",
         "ko": "제어"
       },
+      "player_facing": false,
       "price": 1,
       "rarity": "Rare",
       "rarity_name": {
@@ -77072,6 +77787,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 25860,
       "rarity": "Rare",
       "rarity_name": {
@@ -77185,7 +77901,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.05,
+        "shot_cooldown": 0.2,
         "rotate_speed": 75.0
       }
     },
@@ -77227,6 +77943,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2946,
       "rarity": "Common",
       "rarity_name": {
@@ -77356,6 +78073,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2802,
       "rarity": "Common",
       "rarity_name": {
@@ -77485,6 +78203,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 25509,
       "rarity": "Rare",
       "rarity_name": {
@@ -77636,6 +78355,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 27906,
       "rarity": "Rare",
       "rarity_name": {
@@ -77791,6 +78511,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 30882,
       "rarity": "Rare",
       "rarity_name": {
@@ -77946,6 +78667,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1782,
       "rarity": "Common",
       "rarity_name": {
@@ -78063,6 +78785,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2166,
       "rarity": "Common",
       "rarity_name": {
@@ -78180,6 +78903,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1398,
       "rarity": "Common",
       "rarity_name": {
@@ -78297,6 +79021,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1158,
       "rarity": "Common",
       "rarity_name": {
@@ -78414,6 +79139,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 13716,
       "rarity": "Rare",
       "rarity_name": {
@@ -78498,7 +79224,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.0,
         "rotate_speed": 25.0
       },
       "BeamWeapon": {
@@ -78553,6 +79279,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 504,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -78658,6 +79385,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 531,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -78763,6 +79491,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 387,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -78868,6 +79597,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 279,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -78973,6 +79703,7 @@
         "ko": "비행"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2754,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -79076,6 +79807,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -79141,6 +79873,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -79174,7 +79907,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.0,
         "rotate_speed": 50.0
       },
       "BeamWeapon": {
@@ -79229,6 +79962,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1005,
       "rarity": "Rare",
       "rarity_name": {
@@ -79334,6 +80068,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 25110,
       "rarity": "Rare",
       "rarity_name": {
@@ -79489,6 +80224,7 @@
         "ko": "비행"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 720,
       "rarity": "Common",
       "rarity_name": {
@@ -79594,6 +80330,7 @@
         "ko": "비행"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 774,
       "rarity": "Common",
       "rarity_name": {
@@ -79699,6 +80436,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2115,
       "rarity": "Rare",
       "rarity_name": {
@@ -79804,6 +80542,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1314,
       "rarity": "Rare",
       "rarity_name": {
@@ -79909,6 +80648,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2739,
       "rarity": "Rare",
       "rarity_name": {
@@ -80014,6 +80754,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 26895,
       "rarity": "Rare",
       "rarity_name": {
@@ -80128,6 +80869,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 19089,
       "rarity": "Rare",
       "rarity_name": {
@@ -80253,6 +80995,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 17466,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -80393,6 +81136,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -80468,6 +81212,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -80533,6 +81278,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -80607,6 +81353,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2898,
       "rarity": "Rare",
       "rarity_name": {
@@ -80715,6 +81462,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4545,
       "rarity": "Common",
       "rarity_name": {
@@ -80832,6 +81580,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7164,
       "rarity": "Common",
       "rarity_name": {
@@ -80949,6 +81698,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2250,
       "rarity": "Common",
       "rarity_name": {
@@ -81066,6 +81816,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 747,
       "rarity": "Common",
       "rarity_name": {
@@ -81171,6 +81922,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2532,
       "rarity": "Common",
       "rarity_name": {
@@ -81288,6 +82040,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 675,
       "rarity": "Common",
       "rarity_name": {
@@ -81405,6 +82158,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 34863,
       "rarity": "Rare",
       "rarity_name": {
@@ -81509,6 +82263,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -81575,6 +82330,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3291,
       "rarity": "Common",
       "rarity_name": {
@@ -81667,6 +82423,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -81753,6 +82510,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -81828,6 +82586,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -81893,6 +82652,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -81966,6 +82726,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -82016,7 +82777,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.2,
+        "shot_cooldown": 0.5,
         "rotate_speed": 20.0
       }
     },
@@ -82058,6 +82819,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1089,
       "rarity": "Common",
       "rarity_name": {
@@ -82175,6 +82937,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1755,
       "rarity": "Common",
       "rarity_name": {
@@ -82292,6 +83055,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2520,
       "rarity": "Common",
       "rarity_name": {
@@ -82397,6 +83161,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 681,
       "rarity": "Common",
       "rarity_name": {
@@ -82490,6 +83255,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 354,
       "rarity": "Common",
       "rarity_name": {
@@ -82583,6 +83349,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 294,
       "rarity": "Common",
       "rarity_name": {
@@ -82676,6 +83443,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1062,
       "rarity": "Common",
       "rarity_name": {
@@ -82781,6 +83549,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 135,
       "rarity": "Common",
       "rarity_name": {
@@ -82874,6 +83643,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 468,
       "rarity": "Common",
       "rarity_name": {
@@ -82979,6 +83749,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 558,
       "rarity": "Common",
       "rarity_name": {
@@ -83084,6 +83855,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 693,
       "rarity": "Common",
       "rarity_name": {
@@ -83189,6 +83961,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2229,
       "rarity": "Common",
       "rarity_name": {
@@ -83305,6 +84078,7 @@
         "ja": "制御系",
         "ko": "제어"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -83364,6 +84138,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -83429,6 +84204,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -83515,6 +84291,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -83606,6 +84383,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -83692,6 +84470,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -83767,6 +84546,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -83832,6 +84612,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -83897,6 +84678,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -83963,6 +84745,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -84030,6 +84813,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -84097,6 +84881,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -84164,6 +84949,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -84230,6 +85016,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -84295,6 +85082,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -84380,6 +85168,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2526,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -84492,6 +85281,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 495,
       "rarity": "Common",
       "rarity_name": {
@@ -84596,6 +85386,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -84670,6 +85461,7 @@
         "ja": "電力系",
         "ko": "전력"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -84745,6 +85537,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5280,
       "rarity": "Rare",
       "rarity_name": {
@@ -84860,6 +85653,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10905,
       "rarity": "Rare",
       "rarity_name": {
@@ -84987,6 +85781,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7182,
       "rarity": "Rare",
       "rarity_name": {
@@ -85102,6 +85897,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6900,
       "rarity": "Rare",
       "rarity_name": {
@@ -85217,6 +86013,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 7098,
       "rarity": "Rare",
       "rarity_name": {
@@ -85344,6 +86141,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5436,
       "rarity": "Rare",
       "rarity_name": {
@@ -85459,6 +86257,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5148,
       "rarity": "Rare",
       "rarity_name": {
@@ -85574,6 +86373,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5004,
       "rarity": "Rare",
       "rarity_name": {
@@ -85689,6 +86489,7 @@
         "ko": "전력"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5292,
       "rarity": "Rare",
       "rarity_name": {
@@ -85804,6 +86605,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6954,
       "rarity": "Rare",
       "rarity_name": {
@@ -85931,6 +86733,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6810,
       "rarity": "Rare",
       "rarity_name": {
@@ -86058,6 +86861,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10347,
       "rarity": "Rare",
       "rarity_name": {
@@ -86185,6 +86989,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7098,
       "rarity": "Rare",
       "rarity_name": {
@@ -86312,6 +87117,7 @@
         "ko": "전력"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10491,
       "rarity": "Rare",
       "rarity_name": {
@@ -86439,6 +87245,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3777,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -86556,6 +87363,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2301,
       "rarity": "Rare",
       "rarity_name": {
@@ -86665,6 +87473,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1359,
       "rarity": "Rare",
       "rarity_name": {
@@ -86794,6 +87603,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4629,
       "rarity": "Rare",
       "rarity_name": {
@@ -86903,6 +87713,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1878,
       "rarity": "Rare",
       "rarity_name": {
@@ -87012,6 +87823,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1479,
       "rarity": "Rare",
       "rarity_name": {
@@ -87141,6 +87953,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2472,
       "rarity": "Rare",
       "rarity_name": {
@@ -87249,6 +88062,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3465,
       "rarity": "Rare",
       "rarity_name": {
@@ -87370,6 +88184,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -87436,6 +88251,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -87486,7 +88302,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 9.0,
         "rotate_speed": 12.0
       }
     },
@@ -87528,6 +88344,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5589,
       "rarity": "Rare",
       "rarity_name": {
@@ -87641,6 +88458,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5328,
       "rarity": "Rare",
       "rarity_name": {
@@ -87754,6 +88572,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5088,
       "rarity": "Common",
       "rarity_name": {
@@ -87871,6 +88690,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 405,
       "rarity": "Common",
       "rarity_name": {
@@ -87976,6 +88796,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 423,
       "rarity": "Common",
       "rarity_name": {
@@ -88081,6 +88902,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24690,
       "rarity": "Common",
       "rarity_name": {
@@ -88182,7 +89004,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.0,
+        "shot_cooldown": 1.0,
         "rotate_speed": 20.0
       }
     },
@@ -88224,6 +89046,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 500,
       "rarity": "Rare",
       "rarity_name": {
@@ -88291,6 +89114,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2520,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88396,6 +89220,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4365,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88501,6 +89326,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2664,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88606,6 +89432,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5184,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88711,6 +89538,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3339,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88816,6 +89644,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1422,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -88921,6 +89750,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1566,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89026,6 +89856,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2376,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89131,6 +89962,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1818,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89236,6 +90068,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1962,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89341,6 +90174,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3261,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89458,6 +90292,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3663,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89575,6 +90410,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3024,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -89680,6 +90516,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 24465,
       "rarity": "Rare",
       "rarity_name": {
@@ -89793,7 +90630,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.5,
         "rotate_speed": 100.0
       }
     },
@@ -89835,6 +90672,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2628,
       "rarity": "Common",
       "rarity_name": {
@@ -89886,7 +90724,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 1.0,
         "rotate_speed": 60.0
       }
     },
@@ -89928,6 +90766,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 23810,
       "rarity": "Rare",
       "rarity_name": {
@@ -90014,6 +90853,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9537,
       "rarity": "Rare",
       "rarity_name": {
@@ -90151,6 +90991,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -90218,6 +91059,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -90285,6 +91127,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -90352,6 +91195,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -90419,6 +91263,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 75,
       "rarity": "Common",
       "rarity_name": {
@@ -90486,6 +91331,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 75,
       "rarity": "Common",
       "rarity_name": {
@@ -90553,6 +91399,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 75,
       "rarity": "Common",
       "rarity_name": {
@@ -90620,6 +91467,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1008,
       "rarity": "Common",
       "rarity_name": {
@@ -90737,6 +91585,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 972,
       "rarity": "Common",
       "rarity_name": {
@@ -90854,6 +91703,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7905,
       "rarity": "Rare",
       "rarity_name": {
@@ -90938,7 +91788,7 @@
         "kickback_strength": 0.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.001,
         "rotate_speed": 40.0
       },
       "BeamWeapon": {
@@ -90993,6 +91843,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 29112,
       "rarity": "Rare",
       "rarity_name": {
@@ -91094,7 +91945,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.8125,
+        "shot_cooldown": 3.25,
         "rotate_speed": 35.0
       }
     },
@@ -91136,6 +91987,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 165,
       "rarity": "Common",
       "rarity_name": {
@@ -91229,6 +92081,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 279,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -91322,6 +92175,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 303,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -91415,6 +92269,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 324,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -91508,6 +92363,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9324,
       "rarity": "Rare",
       "rarity_name": {
@@ -91635,6 +92491,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 17508,
       "rarity": "Rare",
       "rarity_name": {
@@ -91774,6 +92631,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7056,
       "rarity": "Rare",
       "rarity_name": {
@@ -91879,6 +92737,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 486,
       "rarity": "Common",
       "rarity_name": {
@@ -92008,6 +92867,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 792,
       "rarity": "Common",
       "rarity_name": {
@@ -92113,6 +92973,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2103,
       "rarity": "Common",
       "rarity_name": {
@@ -92230,6 +93091,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2145,
       "rarity": "Common",
       "rarity_name": {
@@ -92347,6 +93209,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2472,
       "rarity": "Common",
       "rarity_name": {
@@ -92464,6 +93327,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2379,
       "rarity": "Common",
       "rarity_name": {
@@ -92581,6 +93445,7 @@
         "ko": "제어"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 4905,
       "rarity": "Rare",
       "rarity_name": {
@@ -92702,6 +93567,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1044,
       "rarity": "Common",
       "rarity_name": {
@@ -92819,6 +93685,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1062,
       "rarity": "Common",
       "rarity_name": {
@@ -92936,6 +93803,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1017,
       "rarity": "Common",
       "rarity_name": {
@@ -93053,6 +93921,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6612,
       "rarity": "Rare",
       "rarity_name": {
@@ -93180,6 +94049,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2514,
       "rarity": "Rare",
       "rarity_name": {
@@ -93295,6 +94165,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1023,
       "rarity": "Common",
       "rarity_name": {
@@ -93436,6 +94307,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2640,
       "rarity": "Rare",
       "rarity_name": {
@@ -93557,6 +94429,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1083,
       "rarity": "Common",
       "rarity_name": {
@@ -93686,6 +94559,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2799,
       "rarity": "Common",
       "rarity_name": {
@@ -93803,6 +94677,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1146,
       "rarity": "Common",
       "rarity_name": {
@@ -93920,6 +94795,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2577,
       "rarity": "Common",
       "rarity_name": {
@@ -94037,6 +94913,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2580,
       "rarity": "Common",
       "rarity_name": {
@@ -94154,6 +95031,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1317,
       "rarity": "Common",
       "rarity_name": {
@@ -94271,6 +95149,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1638,
       "rarity": "Common",
       "rarity_name": {
@@ -94388,6 +95267,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2292,
       "rarity": "Common",
       "rarity_name": {
@@ -94505,6 +95385,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1125,
       "rarity": "Common",
       "rarity_name": {
@@ -94622,6 +95503,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1611,
       "rarity": "Common",
       "rarity_name": {
@@ -94739,6 +95621,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2169,
       "rarity": "Common",
       "rarity_name": {
@@ -94856,6 +95739,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 864,
       "rarity": "Common",
       "rarity_name": {
@@ -94961,6 +95845,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 903,
       "rarity": "Common",
       "rarity_name": {
@@ -95078,6 +95963,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1278,
       "rarity": "Common",
       "rarity_name": {
@@ -95195,6 +96081,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1761,
       "rarity": "Common",
       "rarity_name": {
@@ -95312,6 +96199,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3612,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -95429,6 +96317,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5391,
       "rarity": "Rare",
       "rarity_name": {
@@ -95534,6 +96423,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2520,
       "rarity": "Common",
       "rarity_name": {
@@ -95651,6 +96541,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1170,
       "rarity": "Common",
       "rarity_name": {
@@ -95767,6 +96658,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -95832,6 +96724,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -95898,6 +96791,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 2796,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -96003,6 +96897,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2454,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -96108,6 +97003,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1170,
       "rarity": "Rare",
       "rarity_name": {
@@ -96213,6 +97109,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 729,
       "rarity": "Common",
       "rarity_name": {
@@ -96318,6 +97215,7 @@
         "ko": "일반"
       },
       "grade": 3,
+      "player_facing": true,
       "price": 1008,
       "rarity": "Common",
       "rarity_name": {
@@ -96423,6 +97321,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1398,
       "rarity": "Rare",
       "rarity_name": {
@@ -96528,6 +97427,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1068,
       "rarity": "Rare",
       "rarity_name": {
@@ -96633,6 +97533,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 708,
       "rarity": "Common",
       "rarity_name": {
@@ -96738,6 +97639,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 14216,
       "rarity": "Rare",
       "rarity_name": {
@@ -96809,6 +97711,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1239,
       "rarity": "Common",
       "rarity_name": {
@@ -96926,6 +97829,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2025,
       "rarity": "Common",
       "rarity_name": {
@@ -97043,6 +97947,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1806,
       "rarity": "Common",
       "rarity_name": {
@@ -97160,6 +98065,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1194,
       "rarity": "Common",
       "rarity_name": {
@@ -97277,6 +98183,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1647,
       "rarity": "Common",
       "rarity_name": {
@@ -97394,6 +98301,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 2226,
       "rarity": "Common",
       "rarity_name": {
@@ -97511,6 +98419,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6825,
       "rarity": "Rare",
       "rarity_name": {
@@ -97616,6 +98525,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 21402,
       "rarity": "Rare",
       "rarity_name": {
@@ -97732,6 +98642,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -97797,6 +98708,7 @@
         "ja": "製造系",
         "ko": "제조"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -97863,6 +98775,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1587,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -97968,6 +98881,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2115,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98073,6 +98987,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1749,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98178,6 +99093,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3234,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98283,6 +99199,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3963,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98388,6 +99305,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4155,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98493,6 +99411,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4185,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98598,6 +99517,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2919,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98703,6 +99623,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2865,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98808,6 +99729,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3114,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -98913,6 +99835,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3207,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99018,6 +99941,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3150,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99111,6 +100035,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3531,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99228,6 +100153,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3063,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99333,6 +100259,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1698,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99450,6 +100377,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3258,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99555,6 +100483,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2754,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99660,6 +100589,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2829,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99765,6 +100695,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3078,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99870,6 +100801,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3927,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -99975,6 +100907,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3945,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100080,6 +101013,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4002,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100185,6 +101119,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4146,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100290,6 +101225,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3768,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100407,6 +101343,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3060,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100512,6 +101449,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3342,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100629,6 +101567,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2994,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100734,6 +101673,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3132,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -100839,6 +101779,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -100900,6 +101841,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -100961,6 +101903,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -101022,6 +101965,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -101083,6 +102027,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -101176,6 +102121,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 100,
       "rarity": "Common",
       "rarity_name": {
@@ -101237,6 +102183,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3948,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -101342,6 +102289,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4194,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -101447,6 +102395,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4110,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -101551,6 +102500,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 2328,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -101618,6 +102568,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4224,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -101722,6 +102673,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 1932,
       "rarity": "Common",
       "rarity_name": {
@@ -101788,6 +102740,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 2598,
       "rarity": "Common",
       "rarity_name": {
@@ -101855,6 +102808,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 15453,
       "rarity": "Rare",
       "rarity_name": {
@@ -101972,6 +102926,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3402,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -102089,6 +103044,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3819,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -102205,6 +103161,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 3654,
       "rarity": "Rare",
       "rarity_name": {
@@ -102271,6 +103228,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "price": 3726,
       "rarity": "Rare",
       "rarity_name": {
@@ -102338,6 +103296,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3936,
       "rarity": "Rare",
       "rarity_name": {
@@ -102443,6 +103402,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1932,
       "rarity": "Common",
       "rarity_name": {
@@ -102560,6 +103520,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2169,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -102677,6 +103638,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3690,
       "rarity": "Rare",
       "rarity_name": {
@@ -102782,6 +103744,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 10320,
       "rarity": "Rare",
       "rarity_name": {
@@ -102899,6 +103862,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2928,
       "rarity": "Rare",
       "rarity_name": {
@@ -103016,6 +103980,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4059,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103121,6 +104086,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4002,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103226,6 +104192,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4056,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103331,6 +104298,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4146,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103436,6 +104404,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2445,
       "rarity": "Rare",
       "rarity_name": {
@@ -103553,6 +104522,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3456,
       "rarity": "Rare",
       "rarity_name": {
@@ -103658,6 +104628,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3756,
       "rarity": "Rare",
       "rarity_name": {
@@ -103763,6 +104734,7 @@
         "ko": "바퀴"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4739,
       "rarity": "Rare",
       "rarity_name": {
@@ -103854,6 +104826,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 31176,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103945,6 +104918,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 46319,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -103996,7 +104970,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 1.0,
+        "shot_cooldown": 0.75,
         "rotate_speed": 85.0
       }
     },
@@ -104038,6 +105012,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 9657,
       "rarity": "Common",
       "rarity_name": {
@@ -104105,6 +105080,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 16812,
       "rarity": "Common",
       "rarity_name": {
@@ -104172,6 +105148,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7605,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -104256,6 +105233,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 8442,
       "rarity": "Rare",
       "rarity_name": {
@@ -104323,6 +105301,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2273,
       "rarity": "Rare",
       "rarity_name": {
@@ -104394,6 +105373,7 @@
         "ko": "제어"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3740,
       "rarity": "Rare",
       "rarity_name": {
@@ -104465,6 +105445,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5711,
       "rarity": "Common",
       "rarity_name": {
@@ -104516,7 +105497,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 3.0,
         "rotate_speed": 50.0
       }
     },
@@ -104558,6 +105539,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 57141,
       "rarity": "Rare",
       "rarity_name": {
@@ -104604,7 +105586,7 @@
         "zone_radius": 25.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 10.0,
+        "shot_cooldown": 22.0,
         "rotate_speed": 30.0
       }
     },
@@ -104646,6 +105628,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 17235,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -104716,6 +105699,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2000,
       "rarity": "Rare",
       "rarity_name": {
@@ -104793,6 +105777,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2000,
       "rarity": "Rare",
       "rarity_name": {
@@ -104870,6 +105855,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5576,
       "rarity": "Common",
       "rarity_name": {
@@ -104915,7 +105901,7 @@
         "lifetime": 10.0
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.25,
+        "shot_cooldown": 0.2,
         "rotate_speed": 200.0
       }
     },
@@ -104957,6 +105943,7 @@
         "ko": "무기"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1476,
       "rarity": "Common",
       "rarity_name": {
@@ -105026,6 +106013,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -105092,6 +106080,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 486,
       "rarity": "Common",
       "rarity_name": {
@@ -105159,6 +106148,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 783,
       "rarity": "Common",
       "rarity_name": {
@@ -105226,6 +106216,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3933,
       "rarity": "Common",
       "rarity_name": {
@@ -105293,6 +106284,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1500,
       "rarity": "Rare",
       "rarity_name": {
@@ -105360,6 +106352,7 @@
         "ko": "보조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 750,
       "rarity": "Rare",
       "rarity_name": {
@@ -105426,6 +106419,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -105491,6 +106485,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -105556,6 +106551,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -105622,6 +106618,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1899,
       "rarity": "Common",
       "rarity_name": {
@@ -105689,6 +106686,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1485,
       "rarity": "Common",
       "rarity_name": {
@@ -105756,6 +106754,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2340,
       "rarity": "Common",
       "rarity_name": {
@@ -105823,6 +106822,7 @@
         "ko": "전력"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2970,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -105893,6 +106893,7 @@
         "ko": "바퀴"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 18576,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -105984,6 +106985,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2552,
       "rarity": "Rare",
       "rarity_name": {
@@ -106051,6 +107053,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 2889,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -106118,6 +107121,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 4275,
       "rarity": "Rare",
       "rarity_name": {
@@ -106185,6 +107189,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7173,
       "rarity": "Common",
       "rarity_name": {
@@ -106252,6 +107257,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 6516,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -106319,6 +107325,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 5958,
       "rarity": "Rare",
       "rarity_name": {
@@ -106390,6 +107397,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 8082,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -106461,6 +107469,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 19053,
       "rarity": "Common",
       "rarity_name": {
@@ -106528,6 +107537,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 378,
       "rarity": "Common",
       "rarity_name": {
@@ -106595,6 +107605,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 11525,
       "rarity": "Rare",
       "rarity_name": {
@@ -106661,6 +107672,7 @@
         "ja": "飛行系",
         "ko": "비행"
       },
+      "player_facing": false,
       "rarity": "Rare",
       "rarity_name": {
         "zh-Hant": "罕見",
@@ -106738,6 +107750,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 21141,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -106820,6 +107833,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3348,
       "rarity": "Common",
       "rarity_name": {
@@ -106890,6 +107904,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3024,
       "rarity": "Common",
       "rarity_name": {
@@ -106960,6 +107975,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1026,
       "rarity": "Rare",
       "rarity_name": {
@@ -107030,6 +108046,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4401,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -107097,6 +108114,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4775,
       "rarity": "Rare",
       "rarity_name": {
@@ -107164,6 +108182,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 12011,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -107255,6 +108274,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 11984,
       "rarity": "Rare",
       "rarity_name": {
@@ -107326,6 +108346,7 @@
         "ko": "바퀴"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 16488,
       "rarity": "Common",
       "rarity_name": {
@@ -107417,6 +108438,7 @@
         "ko": "무기"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 40041,
       "rarity": "Rare",
       "rarity_name": {
@@ -107468,7 +108490,7 @@
         }
       },
       "ModuleWeapon": {
-        "shot_cooldown": 0.5,
+        "shot_cooldown": 3.0,
         "rotate_speed": 0.0
       }
     },
@@ -107510,6 +108532,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 756,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -107580,6 +108603,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 8469,
       "rarity": "Rare",
       "rarity_name": {
@@ -107647,6 +108671,7 @@
         "ko": "제조"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 37994,
       "rarity": "Rare",
       "rarity_name": {
@@ -107714,6 +108739,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3726,
       "rarity": "Rare",
       "rarity_name": {
@@ -107819,6 +108845,7 @@
         "ko": "제조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 8136,
       "rarity": "Rare",
       "rarity_name": {
@@ -107886,6 +108913,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3771,
       "rarity": "Rare",
       "rarity_name": {
@@ -107991,6 +109019,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3582,
       "rarity": "Rare",
       "rarity_name": {
@@ -108096,6 +109125,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3630,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -108201,6 +109231,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3621,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -108305,6 +109336,7 @@
         "ja": "骨組み",
         "ko": "일반"
       },
+      "player_facing": false,
       "rarity": "Common",
       "rarity_name": {
         "zh-Hant": "常見",
@@ -108371,6 +109403,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3972,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -108476,6 +109509,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3522,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -108581,6 +109615,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 17636,
       "rarity": "Rare",
       "rarity_name": {
@@ -108659,6 +109694,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 16250,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -108734,6 +109770,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 4185,
       "rarity": "Rare",
       "rarity_name": {
@@ -108851,6 +109888,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 999,
       "rarity": "Common",
       "rarity_name": {
@@ -108918,6 +109956,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 918,
       "rarity": "Common",
       "rarity_name": {
@@ -108985,6 +110024,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 837,
       "rarity": "Common",
       "rarity_name": {
@@ -109052,6 +110092,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 1125,
       "rarity": "Common",
       "rarity_name": {
@@ -109119,6 +110160,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1827,
       "rarity": "Common",
       "rarity_name": {
@@ -109186,6 +110228,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3726,
       "rarity": "Common",
       "rarity_name": {
@@ -109253,6 +110296,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1476,
       "rarity": "Common",
       "rarity_name": {
@@ -109320,6 +110364,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1611,
       "rarity": "Common",
       "rarity_name": {
@@ -109387,6 +110432,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 3510,
       "rarity": "Common",
       "rarity_name": {
@@ -109454,6 +110500,7 @@
         "ko": "일반"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 869,
       "rarity": "Common",
       "rarity_name": {
@@ -109521,6 +110568,7 @@
         "ko": "일반"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1004,
       "rarity": "Common",
       "rarity_name": {
@@ -109588,6 +110636,7 @@
         "ko": "일반"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 1247,
       "rarity": "Common",
       "rarity_name": {
@@ -109654,6 +110703,7 @@
         "ja": "武器系",
         "ko": "무기"
       },
+      "player_facing": false,
       "price": 1500,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -109738,6 +110788,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3504,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -109855,6 +110906,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3219,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -109972,6 +111024,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 3753,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -110089,6 +111142,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 13064,
       "rarity": "Rare",
       "rarity_name": {
@@ -110166,6 +111220,7 @@
         "ko": "무기"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 11574,
       "rarity": "Rare",
       "rarity_name": {
@@ -110253,6 +111308,7 @@
         "ko": "비행"
       },
       "grade": 2,
+      "player_facing": true,
       "price": 10836,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -110320,6 +111376,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 7196,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -110387,6 +111444,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 10692,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -110454,6 +111512,7 @@
         "ko": "제어"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 9761,
       "rarity": "Rare",
       "rarity_name": {
@@ -110525,6 +111584,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 12011,
       "rarity": "Rare",
       "rarity_name": {
@@ -110602,6 +111662,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 25592,
       "rarity": "Rare",
       "rarity_name": {
@@ -110679,6 +111740,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3327,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -110784,6 +111846,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 2142,
       "rarity": "Common",
       "rarity_name": {
@@ -110851,6 +111914,7 @@
         "ko": "비행"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 1773,
       "rarity": "Common",
       "rarity_name": {
@@ -110918,6 +111982,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3825,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -111035,6 +112100,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -111106,6 +112172,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Rare",
       "rarity_name": {
@@ -111183,6 +112250,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Rare",
       "rarity_name": {
@@ -111260,6 +112328,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Rare",
       "rarity_name": {
@@ -111337,6 +112406,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Common",
       "rarity_name": {
@@ -111404,6 +112474,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 3570,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -111509,6 +112580,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 5964,
       "rarity": "Rare",
       "rarity_name": {
@@ -111614,6 +112686,7 @@
         "ko": "보조"
       },
       "grade": 1,
+      "player_facing": true,
       "price": 6417,
       "rarity": "Uncommon",
       "rarity_name": {
@@ -111681,6 +112754,7 @@
         "ko": "제조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 16137,
       "rarity": "Rare",
       "rarity_name": {
@@ -111748,6 +112822,7 @@
         "ko": "보조"
       },
       "grade": 0,
+      "player_facing": true,
       "price": 250,
       "rarity": "Rare",
       "rarity_name": {
@@ -111818,6 +112893,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
@@ -111883,6 +112959,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
@@ -111948,6 +113025,7 @@
         "ja": "装飾系",
         "ko": "보조"
       },
+      "player_facing": false,
       "rarity": "Uncommon",
       "rarity_name": {
         "zh-Hant": "少見",
