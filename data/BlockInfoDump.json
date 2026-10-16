@@ -1,6 +1,6 @@
 {
   "game_version": "1.6.7.1",
-  "date": "2026/09/18 21:11:31",
+  "date": "2026/10/16 10:15:30",
   "source": "unpack prefabs + localisation (not in-game Block Info Dumper)",
   "languages": [
     "zh-Hant",
@@ -12698,6 +12698,7 @@
         "energy_shield": 0.75,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -12911,6 +12912,7 @@
         "energy_shield": 0.2,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": true,
         "repulsion": false
       }
@@ -16974,6 +16976,7 @@
         "energy_shield": 0.45,
         "energy_heal": 0.1,
         "heal_interval": 0.75,
+        "heal_cap": 100.0,
         "healing": false,
         "repulsion": true
       }
@@ -17391,6 +17394,7 @@
         "energy_shield": 0.15,
         "energy_heal": 0.1,
         "heal_interval": 0.75,
+        "heal_cap": 100.0,
         "healing": true,
         "repulsion": false
       }
@@ -17707,6 +17711,7 @@
         "energy_shield": 0.35,
         "energy_heal": 0.45,
         "heal_interval": 1.75,
+        "heal_cap": 500.0,
         "healing": true,
         "repulsion": false
       }
@@ -27375,6 +27380,7 @@
         "energy_shield": 0.3,
         "energy_heal": 0.4,
         "heal_interval": 1.5,
+        "heal_cap": 400.0,
         "healing": true,
         "repulsion": false
       }
@@ -38685,6 +38691,7 @@
         "energy_shield": 1.25,
         "energy_heal": 0.4,
         "heal_interval": 1.5,
+        "heal_cap": 400.0,
         "healing": false,
         "repulsion": true
       }
@@ -65532,6 +65539,7 @@
         "energy_shield": 1.0,
         "energy_heal": 0.3,
         "heal_interval": 1.25,
+        "heal_cap": 300.0,
         "healing": false,
         "repulsion": true
       }
@@ -68252,6 +68260,7 @@
         "energy_shield": 0.25,
         "energy_heal": 0.3,
         "heal_interval": 1.25,
+        "heal_cap": 300.0,
         "healing": true,
         "repulsion": false
       }
@@ -76120,6 +76129,7 @@
         "energy_shield": 0.75,
         "energy_heal": 0.5,
         "heal_interval": 1.5,
+        "heal_cap": 500.0,
         "healing": false,
         "repulsion": true
       }
@@ -81215,6 +81225,7 @@
         "energy_shield": 0.0,
         "energy_heal": 0.0,
         "heal_interval": 1.5,
+        "heal_cap": 500.0,
         "healing": false,
         "repulsion": true
       }
@@ -82590,6 +82601,7 @@
         "energy_shield": 0.0,
         "energy_heal": 0.0,
         "heal_interval": 1.5,
+        "heal_cap": 500.0,
         "healing": false,
         "repulsion": true
       }
@@ -84556,6 +84568,7 @@
         "energy_shield": 0.0,
         "energy_heal": 0.0,
         "heal_interval": 1.5,
+        "heal_cap": 500.0,
         "healing": false,
         "repulsion": true
       }
@@ -85664,6 +85677,7 @@
         "energy_shield": 0.4,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -85792,6 +85806,7 @@
         "energy_shield": 0.55,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -85908,6 +85923,7 @@
         "energy_shield": 0.4,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86024,6 +86040,7 @@
         "energy_shield": 0.4,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86152,6 +86169,7 @@
         "energy_shield": 0.42,
         "energy_heal": 0.05,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86268,6 +86286,7 @@
         "energy_shield": 0.1,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86384,6 +86403,7 @@
         "energy_shield": 0.1,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86500,6 +86520,7 @@
         "energy_shield": 0.1,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86616,6 +86637,7 @@
         "energy_shield": 0.1,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86744,6 +86766,7 @@
         "energy_shield": 0.2,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -86872,6 +86895,7 @@
         "energy_shield": 0.2,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -87000,6 +87024,7 @@
         "energy_shield": 0.3,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -87128,6 +87153,7 @@
         "energy_shield": 0.3,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
@@ -87256,6 +87282,7 @@
         "energy_shield": 0.3,
         "energy_heal": 0.2,
         "heal_interval": 1.0,
+        "heal_cap": 200.0,
         "healing": false,
         "repulsion": true
       }
