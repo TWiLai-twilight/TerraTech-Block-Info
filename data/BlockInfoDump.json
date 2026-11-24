@@ -1,6 +1,6 @@
 {
   "game_version": "1.6.7.1",
-  "date": "2026/10/16 10:15:30",
+  "date": "2026/11/03 16:41:06",
   "source": "unpack prefabs + localisation (not in-game Block Info Dumper)",
   "languages": [
     "zh-Hant",
@@ -3298,7 +3298,8 @@
       "ModuleWeapon": {
         "shot_cooldown": 3.0,
         "rotate_speed": 0.0,
-        "barrel_count": 8
+        "barrel_count": 8,
+        "seeking_rounds": true
       }
     },
     {
@@ -9243,7 +9244,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 3.0,
+        "flight_distance": 2040,
         "Explosion": {
           "radius_outer": 2.0,
           "radius_inner": 1.0,
@@ -9256,7 +9259,8 @@
         "rotate_speed": 30.0,
         "barrel_count": 2,
         "burst_shot_count": 2,
-        "burst_cooldown": 0.33
+        "burst_cooldown": 0.33,
+        "seeking_rounds": true
       }
     },
     {
@@ -26531,7 +26535,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 1.1,
+        "flight_distance": 543,
         "Explosion": {
           "radius_outer": 3.0,
           "radius_inner": 1.5,
@@ -26544,7 +26550,8 @@
         "rotate_speed": 60.0,
         "barrel_count": 2,
         "burst_shot_count": 2,
-        "burst_cooldown": 1.0
+        "burst_cooldown": 1.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -29784,7 +29791,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 2.2,
+        "flight_distance": 2095.5,
         "Explosion": {
           "radius_outer": 8.0,
           "radius_inner": 4.0,
@@ -29794,7 +29803,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 5.0,
-        "rotate_speed": 60.0
+        "rotate_speed": 60.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -45933,7 +45943,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 1.75,
+        "flight_distance": 776.9,
         "Explosion": {
           "radius_outer": 4.0,
           "radius_inner": 2.0,
@@ -45946,7 +45958,8 @@
         "rotate_speed": 20.0,
         "barrel_count": 4,
         "burst_shot_count": 4,
-        "burst_cooldown": 2.0
+        "burst_cooldown": 2.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -46092,6 +46105,7 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 60.0,
         "Explosion": {
           "radius_outer": 6.0,
@@ -46102,7 +46116,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 60.0
+        "rotate_speed": 60.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -49749,7 +49764,8 @@
       "ModuleWeapon": {
         "shot_cooldown": 1.25,
         "rotate_speed": 100.0,
-        "barrel_count": 2
+        "barrel_count": 2,
+        "seeking_rounds": true
       }
     },
     {
@@ -50020,7 +50036,8 @@
       "ModuleWeapon": {
         "shot_cooldown": 4.0,
         "rotate_speed": 50.0,
-        "barrel_count": 4
+        "barrel_count": 4,
+        "seeking_rounds": true
       }
     },
     {
@@ -50700,7 +50717,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 5.0,
-        "rotate_speed": 0.0
+        "rotate_speed": 0.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -51664,7 +51682,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 3.0,
+        "flight_distance": 647.5,
         "Explosion": {
           "radius_outer": 2.0,
           "radius_inner": 1.0,
@@ -51676,7 +51696,8 @@
         "shot_cooldown": 3.0,
         "rotate_speed": 0.0,
         "barrel_count": 6,
-        "all_at_once": true
+        "all_at_once": true,
+        "seeking_rounds": true
       }
     },
     {
@@ -78508,7 +78529,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 2.5,
+        "flight_distance": 1762.5,
         "Explosion": {
           "radius_outer": 2.0,
           "radius_inner": 1.0,
@@ -78519,7 +78542,8 @@
       "ModuleWeapon": {
         "shot_cooldown": 0.25,
         "rotate_speed": 50.0,
-        "barrel_count": 3
+        "barrel_count": 3,
+        "seeking_rounds": true
       }
     },
     {
@@ -80223,7 +80247,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 3.0,
+        "flight_distance": 647.5,
         "Explosion": {
           "radius_outer": 3.0,
           "radius_inner": 1.5,
@@ -80236,7 +80262,8 @@
         "rotate_speed": 0.0,
         "barrel_count": 3,
         "burst_shot_count": 3,
-        "burst_cooldown": 1.5
+        "burst_cooldown": 1.5,
+        "seeking_rounds": true
       }
     },
     {
@@ -84393,7 +84420,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 3.0,
+        "flight_distance": 647.5,
         "Explosion": {
           "radius_outer": 3.0,
           "radius_inner": 1.5,
@@ -84406,7 +84435,8 @@
         "rotate_speed": 0.0,
         "barrel_count": 3,
         "burst_shot_count": 3,
-        "burst_cooldown": 1.5
+        "burst_cooldown": 1.5,
+        "seeking_rounds": true
       }
     },
     {
@@ -89078,7 +89108,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 1.75,
+        "flight_distance": 776.9,
         "Explosion": {
           "radius_outer": 4.0,
           "radius_inner": 2.0,
@@ -89091,7 +89123,8 @@
         "rotate_speed": 20.0,
         "barrel_count": 9,
         "burst_shot_count": 9,
-        "burst_cooldown": 5.0
+        "burst_cooldown": 5.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -90804,6 +90837,7 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 4.0,
         "Explosion": {
           "radius_outer": 6.0,
@@ -90814,7 +90848,8 @@
       },
       "ModuleWeapon": {
         "shot_cooldown": 1.0,
-        "rotate_speed": 60.0
+        "rotate_speed": 60.0,
+        "seeking_rounds": true
       }
     },
     {
@@ -102162,7 +102197,9 @@
           "ja": "爆発",
           "ko": "Blast [ko]"
         },
+        "missile": true,
         "lifetime": 1.2,
+        "flight_distance": 504,
         "Explosion": {
           "radius_outer": 5.0,
           "radius_inner": 0.5,
@@ -105592,7 +105629,8 @@
         "shot_cooldown": 3.0,
         "rotate_speed": 50.0,
         "burst_shot_count": 2,
-        "burst_cooldown": 0.33
+        "burst_cooldown": 0.33,
+        "seeking_rounds": true
       }
     },
     {
@@ -108587,7 +108625,8 @@
         "shot_cooldown": 3.0,
         "rotate_speed": 0.0,
         "barrel_count": 2,
-        "all_at_once": true
+        "all_at_once": true,
+        "seeking_rounds": true
       }
     },
     {
